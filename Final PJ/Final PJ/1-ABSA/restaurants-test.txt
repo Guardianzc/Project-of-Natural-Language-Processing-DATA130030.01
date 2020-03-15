@@ -1,0 +1,1134 @@
+32897564#894393#2	The bread is top notch as well.	bread:4-9	positive
+33070600#670328#0	I have to say they have one of the fastest delivery times in the city.	delivery times:43-57	positive
+33070600#670328#2	Food is always fresh and hot- ready to eat!	Food:0-4	positive
+36244464#949326#5	Did I mention that the coffee is OUTSTANDING?	coffee:23-29	positive
+32894246#870052#0	Certainly not the best sushi in New York, however, it is always fresh, and the place is very clean, sterile.	sushi:23-28	conflict
+32894246#870052#0	Certainly not the best sushi in New York, however, it is always fresh, and the place is very clean, sterile.	place:79-84	positive
+32894246#870052#1	I trust the people at Go Sushi, it never disappoints.	people:12-18	positive
+32894246#870052#2	Straight-forward, no surprises, very decent Japanese food.	Japanese food:44-57	positive
+35390182#756337#4	BEST spicy tuna roll, great asian salad.	asian salad:28-39	positive
+35390182#756337#4	BEST spicy tuna roll, great asian salad.	spicy tuna roll:5-20	positive
+35390182#756337#5	Try the rose roll (not on menu).	rose roll:8-17	positive
+35390182#756337#5	Try the rose roll (not on menu).	menu:26-30	neutral
+11447227#436718#3	I love the drinks, esp lychee martini, and the food is also VERY good.	drinks:11-17	positive
+11447227#436718#3	I love the drinks, esp lychee martini, and the food is also VERY good.	lychee martini:23-37	positive
+11447227#436718#3	I love the drinks, esp lychee martini, and the food is also VERY good.	food:47-51	positive
+33071731#1007204#3	In fact, this was not a Nicoise salad and was barely eatable.	Nicoise salad:24-37	negative
+33085939#758010#0	While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.	menu:23-27	positive
+33085939#758010#0	While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.	drinks:71-77	neutral
+33085939#758010#0	While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.	dessert pizza:91-104	neutral
+11313431#524365#3	Once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening.	food:30-34	positive
+11313431#524365#3	Once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening.	live entertainment:39-57	positive
+11359717#1138929#1	Our waiter was horrible; so rude and disinterested.	waiter:4-10	negative
+11359717#1138929#3	The sangria's - watered down.	sangria:4-11	negative
+11359717#1138929#4	menu - uneventful, small.	menu:0-4	negative
+11313439#692431#0	Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.	sushi:90-95	positive
+11313439#692431#0	Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.	portions:106-114	positive
+11313439#692431#0	Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.	price:135-140	positive
+11351513#832512#0	Great food but the service was dreadful!	food:6-10	positive
+11351513#832512#0	Great food but the service was dreadful!	service:19-26	negative
+35390148#588852#2	The portions of the food that came out were mediocre.	portions of the food:4-24	neutral
+11351513#832512#1	the two waitress's looked like they had been sucking on lemons.	waitress's:8-18	negative
+11313431#524365#2	From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.	staff memebers:44-58	positive
+11313431#524365#2	From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.	parking:79-86	positive
+35196520#758440#4	We enjoyed ourselves thoroughly and will be going back for the desserts ....	desserts:63-71	positive
+35196527#481646#2	Desserts are almost incredible: my personal favorite is their Tart of the Day.	Desserts:0-8	positive
+35196527#481646#2	Desserts are almost incredible: my personal favorite is their Tart of the Day.	Tart of the Day:62-77	positive
+35668126#536759#2	The food was extremely tasty, creatively presented and the wine excellent.	food:4-8	positive
+35668126#536759#2	The food was extremely tasty, creatively presented and the wine excellent.	wine:59-63	positive
+33070286#1133164#6	THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED.	LASAGNA:4-11	positive
+32894336#662479#0	Harumi Sushi has the freshest and most delicious array of sushi in NYC.	array of sushi:49-63	positive
+32894336#662479#1	I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.	cuisine:46-53	positive
+32894336#662479#1	I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.	owners:81-87	positive
+32894336#662479#1	I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.	staff:92-97	positive
+32892130#435512#0	If you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice.	indian food:31-42	positive
+32892130#435512#0	If you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice.	ambiance:61-69	positive
+32892130#435512#4	I definitely enjoyed the food as well.	food:25-29	positive
+11432316#715219#2	It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.	service:33-40	positive
+11432316#715219#2	It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.	garden:61-67	positive
+11432316#715219#2	It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.	food:82-86	positive
+11432316#715219#2	It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.	appetizers:93-103	positive
+11432316#715219#2	It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.	entrees:107-114	positive
+11351354#412616#0	The food is surprisingly good, and the decor is nice.	food:4-8	positive
+11351354#412616#0	The food is surprisingly good, and the decor is nice.	decor:39-44	positive
+35714274#1076679#0	How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners!	lunch:79-84	negative
+35714274#1076679#0	How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners!	dinners:89-96	negative
+35714274#1076679#5	Two wasted steaks -- what a crime!	steaks:11-17	negative
+35720486#684689#4	The staff should be a bit more friendly.	staff:4-9	negative
+33064346#1483297#0	I think the meatball parm is good.	meatball parm:12-25	positive
+11417054#1062693#2	If you want good tasting, well seasoned latin food eat at Cabana and you can't go wrong.	latin food:40-50	positive
+13383936#420974#4	Definitely try the taglierini with truffles - it was incredible.	taglierini with truffles:19-43	positive
+13383936#420974#5	Also, the staff is very attentive and really personable.	staff:10-15	positive
+36244423#1058258#2	The gnocchi literally melts in your mouth!	gnocchi:4-11	positive
+11559272#409013#0	Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.	staff:35-40	positive
+11559272#409013#0	Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.	food:55-59	positive
+11559272#409013#0	Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.	portion size:83-95	positive
+11559272#409013#0	Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.	portobello/gorgonzola/sausage appetizer:127-166	positive
+11559272#409013#0	Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.	lobster risotto:175-190	positive
+36244784#0#3	Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana.	Entrees:0-7	neutral
+36244784#0#3	Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana.	lasagna:30-37	neutral
+36244784#0#3	Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana.	fettuccine Alfredo:39-57	neutral
+36244784#0#3	Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana.	chicken parmigiana:62-80	neutral
+32938222#1552119#2	The food is good, the teriyaki I recommend.	food:4-8	positive
+32938222#1552119#2	The food is good, the teriyaki I recommend.	teriyaki:22-30	positive
+11546184#1465600#0	Meal was very expensive for what you get.	Meal:0-4	negative
+32895093#418997#3	Try the Peanut Butter Sorbet and the pizza with soy cheese!	Peanut Butter Sorbet:8-28	positive
+32895093#418997#3	Try the Peanut Butter Sorbet and the pizza with soy cheese!	pizza with soy cheese:37-58	positive
+32406302#615620#2	Good food at the right price, what more can you ask for.	food:5-9	positive
+32406302#615620#2	Good food at the right price, what more can you ask for.	price:23-28	positive
+11302356#1455624#1	The food is top notch, the service is attentive, and the atmosphere is great.	food:4-8	positive
+11302356#1455624#1	The food is top notch, the service is attentive, and the atmosphere is great.	service:27-34	positive
+11302356#1455624#1	The food is top notch, the service is attentive, and the atmosphere is great.	atmosphere:57-67	positive
+11302355#533813#0	Great food, great waitstaff, great atmosphere, and best of all GREAT beer!	food:6-10	positive
+11302355#533813#0	Great food, great waitstaff, great atmosphere, and best of all GREAT beer!	waitstaff:18-27	positive
+11302355#533813#0	Great food, great waitstaff, great atmosphere, and best of all GREAT beer!	atmosphere:35-45	positive
+11302355#533813#0	Great food, great waitstaff, great atmosphere, and best of all GREAT beer!	beer:69-73	positive
+35698351#821341#0	this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.	food:66-70	positive
+35698351#821341#0	this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.	kimono shrimp special:101-122	positive
+35698351#821341#0	this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.	atmosphere:154-164	positive
+33070305#1312437#2	The menu is interesting and quite reasonably priced.	menu:4-8	positive
+33070305#1312437#2	The menu is interesting and quite reasonably priced.	priced:45-51	positive
+33070305#1312437#3	The food was delicious and clearly fresh ingredients were used.	food:4-8	positive
+33070305#1312437#3	The food was delicious and clearly fresh ingredients were used.	ingredients:41-52	positive
+11610073#973003#3	This made it obvious that the food wasn't cooked fresh; it was obviously made before hand and then reheated.	food:30-34	negative
+11464789#378665#0	Appetizer are excellent here; you can make a great (and inexpensive) meal out of them.	Appetizer:0-9	positive
+11464789#378665#0	Appetizer are excellent here; you can make a great (and inexpensive) meal out of them.	meal:69-73	positive
+11464789#378665#1	The spicy mussels are a highlight.	spicy mussels:4-17	positive
+32899282#556036#2	Also get the Onion Rings -- best we've ever had.	Onion Rings:13-24	positive
+11351587#1488758#2	However, being foodies, we were utterly disappointed with the food.	food:62-66	negative
+11359656#1716239#1	Huge portions, great and attentive service, and pretty good prices.	portions:5-13	positive
+11359656#1716239#1	Huge portions, great and attentive service, and pretty good prices.	service:35-42	positive
+11359656#1716239#1	Huge portions, great and attentive service, and pretty good prices.	prices:60-66	positive
+11359797#469087#7	I was highly disappointed by their service and food.	service:35-42	negative
+11359797#469087#7	I was highly disappointed by their service and food.	food:47-51	negative
+11359797#469087#6	I complained to the waiter and then to the manager, but the intensity of rudeness from them just went up.	waiter:20-26	negative
+11359797#469087#6	I complained to the waiter and then to the manager, but the intensity of rudeness from them just went up.	manager:43-50	negative
+32938828#1194079#1	The food is great and the milkshakes are even better!	food:4-8	positive
+32938828#1194079#1	The food is great and the milkshakes are even better!	milkshakes:26-36	positive
+11349445#757796#1	the mushroom barley soup is amazing.	mushroom barley soup:4-24	positive
+11602699#875811#1	I'm glad I did as the food was very good and the staff was friendly, courteous and efficient.	food:22-26	positive
+11602699#875811#1	I'm glad I did as the food was very good and the staff was friendly, courteous and efficient.	staff:49-54	positive
+11313316#1234433#2	Their duck here is also absolutely delicious.	duck:6-10	positive
+11351762#644011#1	While it was large and a bit noisy, the drinks were fantastic, and the food was superb.	drinks:40-46	positive
+11351762#644011#1	While it was large and a bit noisy, the drinks were fantastic, and the food was superb.	food:71-75	positive
+35719198#0#5	One caveat: Some of the curried casseroles can be a trifle harsh.	curried casseroles:24-42	negative
+33070461#1496736#1	The food was almost always EXCELLENT.	food:4-8	positive
+32882616#562969#4	I was pleasently surprised at the taste.	taste:34-39	positive
+33070309#423221#1	A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.	seafood:131-138	positive
+33070309#423221#1	A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.	space:7-12	conflict
+33070309#423221#1	A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.	cuisine:94-101	positive
+32882616#562969#3	I never had an orange donut before so I gave it a shot.	orange donut:15-27	neutral
+35171678#484493#3	they really provide a relaxing, laid-back atmosphere.	atmosphere:42-52	positive
+32945645#1528063#2	This particular location certainly uses substandard meats.	meats:52-57	negative
+11546184#1465600#4	The Management was less than accomodating.	Management:4-14	negative
+13383936#420974#2	The ambience is also more laid-back and relaxed.	ambience:4-12	positive
+35692932#1064131#3	the teas are great and all the sweets are homemade.	teas:4-8	positive
+35692932#1064131#3	the teas are great and all the sweets are homemade.	sweets:31-37	positive
+11488685#420977#1	mojitos and the service are the best part in there	mojitos:0-7	positive
+11488685#420977#1	mojitos and the service are the best part in there	service:16-23	positive
+35397104#0#3	Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes.	Sandwiches:0-10	positive
+35397104#0#3	Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes.	burgers:12-19	positive
+35397104#0#3	Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes.	salads:24-30	positive
+35397104#0#3	Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes.	lemon-dressed cobb:41-59	positive
+35820984#608922#1	The design is very intimate and romantic.	design:4-10	positive
+35820984#608922#2	The food was wonderful and imaginative.	food:4-8	positive
+35820984#608922#3	The staff is very sharp and they look good too.	staff:4-9	positive
+36245348#821441#2	The worst though was the taste.	taste:25-30	negative
+11432442#650772#5	The fajita we tried was tasteless and burned and the mole sauce was way too sweet.	fajita:4-10	negative
+11432442#650772#5	The fajita we tried was tasteless and burned and the mole sauce was way too sweet.	mole sauce:53-63	negative
+11432442#650772#6	Stay with the roasted chickens and you'll be fine.	roasted chickens:14-30	positive
+32944693#1193404#4	The atmosphere is warm, comfortable, artsy and sexy.	atmosphere:4-14	positive
+32944693#1193404#1	The food is great (big selection, reasonable prices) and the drinks are really good.	food:4-8	positive
+32944693#1193404#1	The food is great (big selection, reasonable prices) and the drinks are really good.	selection:23-32	positive
+32944693#1193404#1	The food is great (big selection, reasonable prices) and the drinks are really good.	prices:45-51	positive
+32944693#1193404#1	The food is great (big selection, reasonable prices) and the drinks are really good.	drinks:61-67	positive
+35693214#539116#1	The steak melted in my mouth.	steak:4-9	positive
+32950007#1320096#3	The food did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it.	waiters:60-67	positive
+32950007#1320096#3	The food did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it.	food:4-8	neutral
+35938288#666236#2	Most importantly, it is reasonably priced.	priced:35-41	positive
+11350660#564640#1	The selection of food is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great.	selection of food:4-21	positive
+11350660#564640#1	The selection of food is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great.	atmosphere:96-106	positive
+35393632#1591698#7	Only suggestion is that you skip the dessert, it was overpriced and fell short on taste.	dessert:37-44	negative
+35393632#1591698#7	Only suggestion is that you skip the dessert, it was overpriced and fell short on taste.	taste:82-87	negative
+15087705#871249#1	Food was decent, but not great.	Food:0-4	positive
+11651062#1264882#1	i dont know what some people who rave about this hot dog are talking about.	hot dog:49-56	negative
+11359619#487952#3	it is a hidden delight complete with a quaint bar and good food.	bar:46-49	positive
+11359619#487952#3	it is a hidden delight complete with a quaint bar and good food.	food:59-63	positive
+11351628#404492#6	The waiters ALWAYS look angry and even ignore their high-tipping regulars.	waiters:4-11	negative
+35709141#1107179#0	the atmosphere is very nice, and a welcome escape from the rest of the SI mall.	atmosphere:4-14	positive
+32935211#1468239#1	Yes, they're a bit more expensive then typical, but then again, so is their food.	food:76-80	positive
+33069901#1437116#3	I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.	wraps:19-24	positive
+33069901#1437116#3	I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.	burgers:26-33	positive
+33069901#1437116#3	I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.	salads:38-44	positive
+33069901#1437116#3	I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.	mango margareta:75-90	positive
+35709337#1579632#6	Anywhere else, the prices would be 3x as high!	prices:19-25	positive
+33069901#1437116#1	The service we experienced was friendly and good.	service:4-11	positive
+11351725#582163#9	Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with.	waiter:4-10	positive
+11351725#582163#9	Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with.	staff:74-79	negative
+11351725#582163#7	The folding chair I was seated at was uncomfortable.	folding chair:4-17	negative
+11432842#416795#1	Service was among the best I have ever had in NYC.	Service:0-7	positive
+11432842#416795#2	The fettucino alfredo was amazing.	fettucino alfredo:4-21	positive
+33067279#1612676#1	The food was very good and I was pleasantly surprised to see so many vegan options.	food:4-8	positive
+33067279#1612676#1	The food was very good and I was pleasantly surprised to see so many vegan options.	vegan options:69-82	positive
+32930165#1643018#3	I know real Indian food and this wasn't it.	Indian food:12-23	negative
+11359727#487554#5	Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on...	Smoked Trout:19-31	positive
+11359727#487554#5	Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on...	Lamb Chops:34-44	positive
+11359727#487554#5	Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on...	Veal Chops:46-56	positive
+11359727#487554#5	Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on...	Rabbit:58-64	positive
+11359727#487554#5	Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on...	potato gratin:70-83	positive
+11359727#487554#2	Even when the chef is not in the house, the food and service are right on target.	chef:14-18	neutral
+11359727#487554#2	Even when the chef is not in the house, the food and service are right on target.	food:44-48	positive
+11359727#487554#2	Even when the chef is not in the house, the food and service are right on target.	service:53-60	positive
+32893609#708406#2	Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty.	eggs benedict:20-33	positive
+32893609#708406#2	Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty.	mussels:41-48	positive
+32893609#708406#2	Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty.	hamburger:62-71	positive
+32926987#668438#1	The waiters were very professional, courteous and attentive.	waiters:4-11	positive
+32935729#785247#5	The falafal was rather over cooked and dried but the chicken was fine.	falafal:4-11	negative
+32935729#785247#5	The falafal was rather over cooked and dried but the chicken was fine.	chicken:53-60	positive
+32935211#1468239#3	I highly reccomend the grand marnier shrimp, it's insanely good.	grand marnier shrimp:23-43	positive
+32944704#492723#0	We been there and we really enjoy the food, was areally great food, and the service was really good.	food:38-42	positive
+32944704#492723#0	We been there and we really enjoy the food, was areally great food, and the service was really good.	food:62-66	positive
+32944704#492723#0	We been there and we really enjoy the food, was areally great food, and the service was really good.	service:76-83	positive
+33061325#0#3	Desserts include flan and sopaipillas.	Desserts:0-8	neutral
+33061325#0#3	Desserts include flan and sopaipillas.	flan:17-21	neutral
+33061325#0#3	Desserts include flan and sopaipillas.	sopaipillas:26-37	neutral
+32894513#498296#0	I was starving and the small portions were driving me crazy!	portions:29-37	negative
+35709141#1107179#4	The wait staff was loud and inconsiderate.	wait staff:4-14	negative
+35709141#1107179#1	However, the food and service and dramatically lacking.	food:13-17	negative
+35709141#1107179#1	However, the food and service and dramatically lacking.	service:22-29	negative
+35709141#1107179#2	The sushi is cut in blocks bigger than my cell phone.	sushi:4-9	negative
+11350496#1560668#3	The service is great, my soup always arrives nice and hot.	service:4-11	positive
+11350496#1560668#3	The service is great, my soup always arrives nice and hot.	soup:25-29	positive
+11351625#909535#1	It had been awhile and I forgot just how delicious crepes can be.	crepes:51-57	positive
+11351622#0#5	Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.	desserts:15-23	positive
+11351622#0#5	Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.	creme brulee:47-59	positive
+11351622#0#5	Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.	apple tart:75-85	positive
+11351620#1180095#0	i had a delicious shrimp creole.	shrimp creole:18-31	positive
+11351620#1180095#1	The chicken dinner was real good.	chicken dinner:4-18	positive
+32464595#574909#4	Beware of the chili signed food items not unless you want to call the fire department to douse the flames in your mouth.	chili signed food items:14-37	negative
+32938222#1552119#1	The decor is designed in a contemporary Japanese style restaurant.	decor:4-9	neutral
+11351620#1180095#3	but the food was delicious.	food:8-12	positive
+32464595#574909#2	Try the ribs, sizzling beef and couple it with coconut rice.	coconut rice:47-59	positive
+32464595#574909#2	Try the ribs, sizzling beef and couple it with coconut rice.	ribs:8-12	positive
+32464595#574909#2	Try the ribs, sizzling beef and couple it with coconut rice.	beef:23-27	positive
+32893040#1716582#5	The avocado salad is a personal fave.	avocado salad:4-17	positive
+32893040#1716582#6	And, the honey BBQ rib tips are yummy!	honey BBQ rib tips:9-27	positive
+32893040#1716582#0	The BEST Chinese food Uptown!	Chinese food:9-21	positive
+35170181#0#2	Service is known for bending over backwards to make everyone happy.	Service:0-7	positive
+32464601#418474#1	The atmosphere is attractive, but a little uncomfortable.	atmosphere:4-14	conflict
+32464601#418474#2	The staff is very friendly.	staff:4-9	positive
+11359618#788741#3	Waiters are very friendly and the pasta is out of this world.	Waiters:0-7	positive
+11359618#788741#3	Waiters are very friendly and the pasta is out of this world.	pasta:34-39	positive
+33068517#482841#2	Great wine list and great cocktail menu.	wine list:6-15	positive
+33068517#482841#2	Great wine list and great cocktail menu.	cocktail menu:26-39	positive
+33068517#482841#1	The crab cakes are delicious and the BBQ rib was perfect.	crab cakes:4-14	positive
+33068517#482841#1	The crab cakes are delicious and the BBQ rib was perfect.	BBQ rib:37-44	positive
+35869867#649564#1	The food is wonderful, artfully done and simply delicious.	food:4-8	positive
+32864873#471207#1	Tiny restaurant with very fast service.	service:31-38	positive
+11350539#680470#4	The sauce may not be for everyone, since it is distintive.	sauce:4-9	conflict
+33069536#707145#3	My husband and I have been there at least 6 times and we've always been given the highest service and often free desserts.	service:90-97	positive
+33069536#707145#3	My husband and I have been there at least 6 times and we've always been given the highest service and often free desserts.	desserts:113-121	positive
+32899414#512291#0	A beautiful atmosphere, perfect for drinks and/or appetizers.	atmosphere:12-22	positive
+32899414#512291#0	A beautiful atmosphere, perfect for drinks and/or appetizers.	drinks:36-42	neutral
+32899414#512291#0	A beautiful atmosphere, perfect for drinks and/or appetizers.	appetizers:50-60	neutral
+32469157#1273114#1	They make the best pizza in New Jersey.	pizza:19-24	positive
+36072604#1106889#2	What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.	service:23-30	positive
+36072604#1106889#2	What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.	food:59-63	positive
+36072604#1106889#2	What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.	beer list:150-159	positive
+12036269#580745#1	Frankly, the chinese food here is something I can make better at home.	chinese food:13-25	negative
+12036269#580745#2	There was only one waiter for the whole restaurant upstairs.	waiter:19-25	neutral
+35695422#1464305#3	We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.	scallops:20-28	neutral
+35695422#1464305#3	We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.	asparagus:33-42	neutral
+35695422#1464305#3	We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.	soft shell crab:60-75	neutral
+35695422#1464305#3	We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.	cheese plate:91-103	neutral
+36220672#1714981#3	Not to be overlooked, the service is excellent.	service:26-33	positive
+11651062#1264882#2	this without question is one of the worst hotdogs i have ever had.	hotdogs:42-49	negative
+32971013#1044651#2	The staff is unbelievably friendly, and I dream about their Saag gosht...so good.	staff:4-9	positive
+32971013#1044651#2	The staff is unbelievably friendly, and I dream about their Saag gosht...so good.	Saag gosht:60-70	positive
+33064238#563983#2	I also recommend the garlic knots.	garlic knots:21-33	positive
+32971013#1044651#0	Best Indian food I have ever eaten.	Indian food:5-16	positive
+33064238#563983#0	This place has the best pizza.	pizza:24-29	positive
+32896473#439063#3	The music which is sometimes a little too heavy for my taste.	music:4-9	negative
+11350010#590580#1	The service is excellent and always informative without an air.	service:4-11	positive
+11359762#927332#1	The owner and staff go to great lengths to make you feel comfortable.	owner:4-9	positive
+11359762#927332#1	The owner and staff go to great lengths to make you feel comfortable.	staff:14-19	positive
+32950061#1264345#1	The sushi is always fresh and yummy and the menu is pretty varied.	sushi:4-9	positive
+32950061#1264345#1	The sushi is always fresh and yummy and the menu is pretty varied.	menu:44-48	positive
+11359767#969393#2	The food was great - sushi was good, but the cooked food amazed us.	food:4-8	positive
+11359767#969393#2	The food was great - sushi was good, but the cooked food amazed us.	sushi:21-26	positive
+11359767#969393#2	The food was great - sushi was good, but the cooked food amazed us.	cooked food:45-56	positive
+33106326#864352#0	their dinner specials are fantastic.	dinner specials:6-21	positive
+32405935#675215#0	Great food, great drinks, nice dining atmosphere.	food:6-10	positive
+32405935#675215#0	Great food, great drinks, nice dining atmosphere.	drinks:18-24	positive
+32405935#675215#0	Great food, great drinks, nice dining atmosphere.	dining atmosphere:31-48	positive
+32894669#1075584#0	For the price you pay for the food here, you'd expect it to be at least on par with other Japanese restaurants.	price:8-13	negative
+32894669#1075584#0	For the price you pay for the food here, you'd expect it to be at least on par with other Japanese restaurants.	food:30-34	negative
+32894669#1075584#1	Food portion was SMALL and below average.	Food portion:0-12	negative
+33085669#409731#11	Sit back in one of those comfortable chairs.	chairs:37-43	positive
+33070461#1496736#6	My favs here are the Tacos Pastor and the Tostada de Tinga...	Tacos Pastor:21-33	positive
+33070461#1496736#6	My favs here are the Tacos Pastor and the Tostada de Tinga...	Tostada de Tinga:42-58	positive
+11447227#436718#2	The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.	bartenders:4-14	positive
+11447227#436718#2	The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.	managers:23-31	positive
+11447227#436718#2	The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.	decor:56-61	positive
+32889544#0#4	For a savory take on the soup and sandwich meal, try the hot and sour soup.	hot and sour soup:57-74	positive
+32889544#0#4	For a savory take on the soup and sandwich meal, try the hot and sour soup.	soup and sandwich meal:25-47	positive
+35693136#561234#0	This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.	drinks:28-34	positive
+35693136#561234#0	This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.	atmosphere:41-51	positive
+35693136#561234#0	This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.	service:63-70	positive
+35693136#561234#0	This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.	food:85-89	positive
+11484031#1129679#4	Also, the chick peas with shrimp (appetizer) is divine.	chick peas with shrimp (appetizer):10-44	positive
+11351628#404492#9	Finally, I got sick of the bad service, obnoxious smirks, and snotty back talk.	service:31-38	negative
+32893510#483382#1	We ordered lamb which was perfectly cooked and tasted awesome.	lamb:11-15	positive
+11359619#487952#6	i especially like their soft shell crab sandwich with fries.	soft shell crab sandwich with fries:24-59	positive
+33070605#1232775#2	if you're looking for authentic hong kong-style food, look no further.	hong kong-style food:32-52	positive
+11351664#1238806#6	good food good wine that's it.	food:5-9	positive
+11351664#1238806#6	good food good wine that's it.	wine:15-19	positive
+33070305#1312437#4	The staff was extremely friendly and pleasant.	staff:4-9	positive
+11478791#397331#1	While their kitchen food is delicious, their Sushi is out of this world.	kitchen food:12-24	positive
+11478791#397331#1	While their kitchen food is delicious, their Sushi is out of this world.	Sushi:45-50	positive
+35171678#484493#2	everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.	service:46-53	positive
+35171678#484493#2	everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.	waitresses:62-72	positive
+35171678#484493#2	everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.	atmosphere:96-106	positive
+11351664#1238806#1	It's traditional, simple italian food.	italian food:25-37	positive
+35693081#540596#1	The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.	food:4-8	positive
+35693081#540596#1	The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.	rolls:38-43	positive
+35693081#540596#1	The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.	sushi/sashimi:70-83	neutral
+35693081#540596#2	(The sashimi is cut a little thinly.	sashimi:5-12	negative
+35708055#673129#2	Could have had better for 1/3 the price in Chinatown.	price:34-39	negative
+11651063#1217842#0	In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.	hot dogs:21-29	positive
+11651063#1217842#0	In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.	breakfast sandwiches:50-70	positive
+11651063#1217842#0	In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.	tator tots:118-128	positive
+11651063#1217842#0	In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.	English muffins:133-148	positive
+11651063#1217842#0	In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.	Taylor ham:220-230	positive
+11651063#1217842#0	In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.	pork product:171-183	positive
+11349845#1188496#1	Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.	manager:41-48	negative
+11349845#1188496#1	Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.	bartender:60-69	negative
+11349845#1188496#1	Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.	drinks:104-110	neutral
+11349845#1188496#1	Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.	waiting:81-88	negative
+32892130#435512#1	Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.	service:16-23	positive
+32892130#435512#1	Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.	atmosphere:94-104	positive
+11359797#469087#5	When the dish arrived it was blazing with green chillis, definitely not edible by a human.	green chillis:42-55	negative
+11359797#469087#5	When the dish arrived it was blazing with green chillis, definitely not edible by a human.	dish:9-13	negative
+11351819#985076#1	The absolute worst service I've ever experienced and the food was below average (when they actually gave people the meals they ordered).	service:19-26	negative
+11351819#985076#1	The absolute worst service I've ever experienced and the food was below average (when they actually gave people the meals they ordered).	food:57-61	negative
+11351819#985076#1	The absolute worst service I've ever experienced and the food was below average (when they actually gave people the meals they ordered).	meals:116-121	neutral
+33061445#591371#1	It's about $7 for lunch and they have take-out or dine-in.	lunch:18-23	neutral
+33061445#591371#1	It's about $7 for lunch and they have take-out or dine-in.	take-out:38-46	neutral
+33061445#591371#1	It's about $7 for lunch and they have take-out or dine-in.	dine-in:50-57	neutral
+32934709#796678#2	Be sure to accompany your food with one of their fresh juice concoctions.	food:26-30	neutral
+32934709#796678#2	Be sure to accompany your food with one of their fresh juice concoctions.	fresh juice concoctions:49-72	positive
+32894963#1707639#1	The food is great and the prices are reasonable.	food:4-8	positive
+32894963#1707639#1	The food is great and the prices are reasonable.	prices:26-32	positive
+32894963#1707639#3	The place is clean, and if you like soul food, then this is the place to be!	place:4-9	positive
+32894963#1707639#3	The place is clean, and if you like soul food, then this is the place to be!	soul food:36-45	positive
+33059678#631861#3	I had roast chicken and a salad.	roast chicken:6-19	neutral
+33059678#631861#3	I had roast chicken and a salad.	salad:26-31	neutral
+32894966#1727613#7	They have a very good chicken with avocado and good tuna as well.	chicken with avocado:22-42	positive
+32894966#1727613#7	They have a very good chicken with avocado and good tuna as well.	tuna:52-56	positive
+11558693#1436895#4	But the meals were terrible.	meals:8-13	negative
+11558693#1436895#6	My chicken was completely dried out and on the cold side and the sauce was not very flavorful.	chicken:3-10	negative
+11558693#1436895#6	My chicken was completely dried out and on the cold side and the sauce was not very flavorful.	sauce:65-70	negative
+12037822#470071#0	Malted Milk Ball Gelato - have you ever in your life heard of anything so ridiculously wonderful?	Malted Milk Ball Gelato:0-23	positive
+11558693#1436895#9	Way too much money for such a terrible meal.	meal:39-43	negative
+35700731#1595671#2	However, the service is absolutely horrible.	service:13-20	negative
+11350033#1264371#4	A con was the slow bar service.	bar service:19-30	negative
+35158410#1207085#5	Dessert was also to die for!	Dessert:0-7	positive
+11660930#655010#6	BTW, the service is very good .	service:9-16	positive
+12036269#580745#8	It's eaten with black vinegar and shredded ginger.	black vinegar:16-29	neutral
+12036269#580745#8	It's eaten with black vinegar and shredded ginger.	shredded ginger:34-49	neutral
+11350390#802808#2	The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.	lighting:17-25	negative
+11350390#802808#2	The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.	food:51-55	negative
+11350390#802808#2	The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.	disco pop duo:97-110	negative
+11350390#802808#2	The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.	escargot:129-137	negative
+11359619#487952#4	it is a cozy place to go with a couple of friends.	place:13-18	positive
+11565268#560107#1	The service is always great, and the owner walks around to make sure you enjoy.	service:4-11	positive
+11565268#560107#1	The service is always great, and the owner walks around to make sure you enjoy.	owner:37-42	positive
+11351628#404492#5	because the waiters need SEVERE ATTITUE ADJUSTMENTS.	waiters:12-19	negative
+11359791#791967#1	the food is delicious and highly recommended.	food:4-8	positive
+11359790#823900#2	When it came time to take the order the waiter gave us a hard time, walked away then came back with a paper and pen for us to write down what we wanted...excuse me but isn't that his job???	waiter:40-46	negative
+11351628#404492#2	Dieters stick to salads or indulge in vegetarian platters.	salads:17-23	positive
+11351628#404492#2	Dieters stick to salads or indulge in vegetarian platters.	vegetarian platters:38-57	positive
+32935729#785247#10	So for a filling and healthy meal give it a go.	meal:29-33	positive
+11359727#487554#3	Since I cook for a living, I'm very fussy about the food I eat in restaurants.	food:52-56	neutral
+11639814#570590#2	The service was outstanding.	service:4-11	positive
+11350141#1745557#0	My friends and I stop here for pizza before hitting the Kips Bay movie theater.	pizza:31-36	neutral
+11350141#1745557#1	We always enjoy the pizza.	pizza:20-25	positive
+11350141#1745557#4	The service is pretty good.	service:4-11	positive
+11432442#650772#0	Yum, the chicken is great here.	chicken:9-16	positive
+32406302#615620#1	The food here was great, a treat from beginning to end.	food:4-8	positive
+11484031#1129679#1	The host (owner) and servers are personable and caring.	host (owner):4-16	positive
+11484031#1129679#1	The host (owner) and servers are personable and caring.	servers:21-28	positive
+11351561#744321#0	It's just everything...the food, the atmosphere...the incrediby kind and gracious hostess.	food:27-31	positive
+11351561#744321#0	It's just everything...the food, the atmosphere...the incrediby kind and gracious hostess.	atmosphere:37-47	positive
+11351561#744321#0	It's just everything...the food, the atmosphere...the incrediby kind and gracious hostess.	hostess:82-89	positive
+33068635#1533725#2	The food is very good and the service is great.	food:4-8	positive
+33068635#1533725#2	The food is very good and the service is great.	service:30-37	positive
+11313316#1234433#1	I usually get one the Vietnamese Beef Noodle Soup.	Vietnamese Beef Noodle Soup:22-49	neutral
+11661949#1709112#5	We were wondering why they were there to make our dining experience miserable?	dining experience:50-67	negative
+33069536#707145#0	This place has the best Indian food in New York, hands down.	Indian food:24-35	positive
+33069536#707145#1	The waiters are very friendly and helpful and if you frequent they will remember you.	waiters:4-11	positive
+35693081#540596#0	Intimate but charming interior with extremely friendly and attentive service.	interior:22-30	positive
+35693081#540596#0	Intimate but charming interior with extremely friendly and attentive service.	service:69-76	positive
+35393632#1591698#4	The food was as creative as the decor and both worked.	food:4-8	positive
+35393632#1591698#4	The food was as creative as the decor and both worked.	decor:32-37	positive
+33009300#626261#5	The menu is great, with a good selection, and everything that I have tried is absolutely delicious.	menu:4-8	positive
+33009300#626261#5	The menu is great, with a good selection, and everything that I have tried is absolutely delicious.	selection:31-40	positive
+11350539#680470#3	The sauce is zesty and flavorful and the crust is nice and crispy.	sauce:4-9	positive
+11350539#680470#3	The sauce is zesty and flavorful and the crust is nice and crispy.	crust:41-46	positive
+33059931#926509#0	This place has the best sushi in the city.	sushi:24-29	positive
+33059931#926509#1	They have an excellent selection (the rolls with crab are really great).	selection:23-32	positive
+33059931#926509#1	They have an excellent selection (the rolls with crab are really great).	rolls with crab:38-53	positive
+11349871#518230#2	Everyone who works there (the host, the bartender, the servers) is so helpful.	host:30-34	positive
+11349871#518230#2	Everyone who works there (the host, the bartender, the servers) is so helpful.	bartender:40-49	positive
+11349871#518230#2	Everyone who works there (the host, the bartender, the servers) is so helpful.	servers:55-62	positive
+11349871#518230#3	And the food is fantastic.	food:8-12	positive
+11349871#518230#4	Favourites include: potato spinach gnocchi and the lamb.	potato spinach gnocchi:20-42	positive
+11349871#518230#4	Favourites include: potato spinach gnocchi and the lamb.	lamb:51-55	positive
+33071731#1007204#0	Unfortunately, we chose this spot for lunch as we had done a lot of walking and ended up at the South St Seaport.	lunch:38-43	neutral
+32889544#0#3	But regulars know that the sandwiches are the real star here.	sandwiches:27-37	positive
+11351753#0#4	The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending.	port:65-69	positive
+11351753#0#4	The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending.	Portuguese cheese cart:22-44	positive
+35084984#412657#1	My friend had a burger and I had these wonderful blueberry pancakes.	burger:16-22	neutral
+35084984#412657#1	My friend had a burger and I had these wonderful blueberry pancakes.	blueberry pancakes:49-67	positive
+35084984#412657#2	We were so happy with our food and were even more thrilled when we saw the bill.	food:26-30	positive
+35084984#412657#2	We were so happy with our food and were even more thrilled when we saw the bill.	bill:75-79	positive
+33064221#427885#3	All toppings are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made.	toppings:4-12	positive
+33064221#427885#3	All toppings are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made.	crust:82-87	positive
+11548230#560890#2	We've always gotten amazing service and we love the food.	service:28-35	positive
+11548230#560890#2	We've always gotten amazing service and we love the food.	food:52-56	positive
+35700989#574718#1	The waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.	waitstaff:4-13	positive
+35700989#574718#1	The waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.	food:82-86	positive
+35700989#574718#2	I'm in love with the lobster ravioli!	lobster ravioli:21-36	positive
+11639814#570590#0	We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our meal.	meal:100-104	positive
+11359618#788741#2	Service is excellent, no wait, and you get a lot for the price.	Service:0-7	positive
+11359618#788741#2	Service is excellent, no wait, and you get a lot for the price.	price:57-62	positive
+11359618#788741#2	Service is excellent, no wait, and you get a lot for the price.	wait:25-29	positive
+12036269#580745#3	I thought the food isn't cheap at all compared to Chinatown.	food:14-18	negative
+33070601#438491#0	Coffee is a better deal than overpriced Cosi sandwiches.	Coffee:0-6	positive
+33070601#438491#0	Coffee is a better deal than overpriced Cosi sandwiches.	Cosi sandwiches:40-55	negative
+11661949#1709112#3	We didn't know if we should order a drink or leave?	drink:36-41	neutral
+35693081#540596#3	) It's not the best Japanese restaurant in the East Village, but it's a pretty solid one for its modest prices, and worth repeat visits.	prices:104-110	positive
+32944714#1559783#1	The food is so good and so popular that waiting can really be a nightmare.	food:4-8	positive
+32944714#1559783#1	The food is so good and so popular that waiting can really be a nightmare.	waiting:40-47	negative
+11558693#1436895#1	First walking in the place seemed to have great ambience.	place:21-26	positive
+11558693#1436895#1	First walking in the place seemed to have great ambience.	ambience:48-56	positive
+35700731#1595671#0	I went to Kitchenette this weekend for brunch.	brunch:39-45	neutral
+35819603#1613701#3	Even for two very hungry people there is plenty of food left to be taken home (it reheats really well also).	food:51-55	positive
+35714274#1076679#4	Then they somehow made a dry and burnt crust, around a raw and cold inside.	crust:39-44	negative
+11351664#1238806#4	It's just good food, nothing more and that's all we want!	food:15-19	positive
+32936760#1397861#9	Average cake thats been courted by a LOT of hype.	cake:8-12	negative
+33068517#482841#0	My wife and I recently visited the bistro for dinner and had a wonderful experience.	dinner:46-52	neutral
+11351400#495795#1	THE SERVICE IS PERFECT TOO  NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT	SERVICE:4-11	positive
+11546184#1465600#1	The $72 Delmonico steak had to be sent back because it was not cooked to order.	Delmonico steak:8-23	negative
+11482070#503858#1	Everytime I go there I can't pick anything to eat and not because the menu is filled with great things to eat.	menu:70-74	negative
+11349922#547169#3	Half a chicken with a mountain of rice and beans for $6.25.	rice:34-38	neutral
+11349922#547169#3	Half a chicken with a mountain of rice and beans for $6.25.	beans:43-48	neutral
+11349922#547169#3	Half a chicken with a mountain of rice and beans for $6.25.	chicken:7-14	neutral
+32894483#1088884#0	The service is really fast and friendly, and the value is great.	service:4-11	positive
+32894483#1088884#0	The service is really fast and friendly, and the value is great.	value:49-54	positive
+32944674#542988#0	We were very impressed with the food and value.	food:32-36	positive
+32944674#542988#0	We were very impressed with the food and value.	value:41-46	positive
+32944674#542988#2	You must try the garlic soup!	garlic soup:17-28	positive
+32896492#738746#0	Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive.	falafel:29-36	positive
+32896492#738746#0	Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive.	tabouleh:38-46	positive
+32896492#738746#0	Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive.	humus:48-53	positive
+32896492#738746#0	Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive.	Mediterranean delights:64-86	positive
+33069847#1306433#1	The pizza's are made fresh, crispy, and ready to serve.	pizza's:4-11	positive
+35709451#1061726#1	Staff is accomodating make sure you are satified.	Staff:0-5	positive
+11359727#487554#4	Chef Waldy's always measures up.	Chef:0-4	positive
+33059931#926509#2	Reasonably priced with very fresh sushi.	sushi:34-39	positive
+33059931#926509#2	Reasonably priced with very fresh sushi.	priced:11-17	positive
+35819603#1613701#2	Go for the Seafood Paella for two.	Seafood Paella for two:11-33	positive
+35819603#1613701#4	All of the apetizers are good and the Sangria is very good.	apetizers:11-20	positive
+35819603#1613701#4	All of the apetizers are good and the Sangria is very good.	Sangria:38-45	positive
+11558693#1436895#7	The one positive thing I can say is that the service was prompt, we got seated right away and the server was very friendly.	service:45-52	positive
+11558693#1436895#7	The one positive thing I can say is that the service was prompt, we got seated right away and the server was very friendly.	server:98-104	positive
+33009300#626261#3	The staff greeted me warmly at the door and I was seated promptly and the food was excellent.	staff:4-9	positive
+33009300#626261#3	The staff greeted me warmly at the door and I was seated promptly and the food was excellent.	food:74-78	positive
+35819603#1613701#6	Service is usually pretty good.	Service:0-7	positive
+35708055#673129#4	Host and Hostess was quite rude.	Host:0-4	negative
+35708055#673129#4	Host and Hostess was quite rude.	Hostess:9-16	negative
+11351453#683961#0	the wait staff is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -.	wait staff:4-14	positive
+11351453#683961#0	the wait staff is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -.	meal:69-73	positive
+11351453#683961#1	I recommend any of their salmon dishes......	salmon dishes:25-38	positive
+11351451#805713#1	The foie gras was sweet and luscious.	foie gras:4-13	positive
+11351324#0#2	The menu, which changes seasonally, shows both regional and international influences.	menu:4-8	neutral
+11624981#549489#5	but their mac cheese was YUMMY!	mac cheese:10-20	positive
+11624981#549489#6	their brunch menu had something for everyone.	brunch menu:6-17	positive
+11624981#549489#7	jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more.	jazz singer:0-11	positive
+15069510#648179#2	They have very quick service which is great when you don't have much time.	service:21-28	positive
+15069510#648179#3	The food is average: breakfast food, soups, salads, sandwiches, etc.	food:4-8	neutral
+15069510#648179#3	The food is average: breakfast food, soups, salads, sandwiches, etc.	breakfast food:21-35	neutral
+15069510#648179#3	The food is average: breakfast food, soups, salads, sandwiches, etc.	soups:37-42	neutral
+15069510#648179#3	The food is average: breakfast food, soups, salads, sandwiches, etc.	salads:44-50	neutral
+15069510#648179#3	The food is average: breakfast food, soups, salads, sandwiches, etc.	sandwiches:52-62	neutral
+11519527#1541586#1	I WAS HIGHLY DISAPPOINTED BY THE FOOD.	FOOD:33-37	negative
+11519527#1541586#3	THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.	BANANA PUDDING:4-18	negative
+11519527#1541586#3	THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.	CRABCAKES:57-66	negative
+11519527#1541586#3	THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.	MAC AND CHEESE:131-145	negative
+35759841#1360876#1	The staff is arrogant, the prices are way high for Brooklyn.	staff:4-9	negative
+35759841#1360876#1	The staff is arrogant, the prices are way high for Brooklyn.	prices:27-33	negative
+11639667#1085238#2	the service is prompt friendly.	service:4-11	positive
+32464595#574909#0	This is literally a hot spot when it comes to the food.	food:50-54	positive
+32892297#645108#0	The downstairs bar scene is very cool and chill...	downstairs bar scene:4-24	positive
+32892297#645108#1	The food was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 drinks, $100/person)...	food:4-8	positive
+32892297#645108#1	The food was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 drinks, $100/person)...	price:97-102	negative
+32892297#645108#1	The food was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 drinks, $100/person)...	drinks:116-122	neutral
+32950061#1264345#0	I've come here for casual lunches as well as for a friend's birthday and I always enjoy myself.	casual lunches:19-33	neutral
+35393630#1095759#2	If you are a Tequila fan you will not be disappointed.	Tequila:13-20	positive
+11660930#655010#5	Great beer selection too, something like 50 beers.	beer selection:6-20	positive
+11660930#655010#5	Great beer selection too, something like 50 beers.	beers:44-49	neutral
+11359613#884374#3	Not to sound too negative but be wary of the delivary.	delivary:45-53	negative
+13383936#420974#1	I found the food to be just as good as its owner, Da Silvano, just much less expensive.	food:12-16	positive
+13383936#420974#1	I found the food to be just as good as its owner, Da Silvano, just much less expensive.	owner:43-48	positive
+11484031#1129679#3	They have homemade pastas of all kinds -- I recommend the gnocchi -- yum!	homemade pastas:10-25	positive
+11484031#1129679#3	They have homemade pastas of all kinds -- I recommend the gnocchi -- yum!	gnocchi:58-65	positive
+14336883#1094817#3	My vegetable risotto was burnt, and infused totally in a burnt flavor.	vegetable risotto:3-20	negative
+14336883#1094817#3	My vegetable risotto was burnt, and infused totally in a burnt flavor.	flavor:63-69	negative
+32935729#785247#8	The main draw of this place is the price.	price:35-40	positive
+35390148#588852#4	How can hope to stay in business with service like this?	service:38-45	negative
+32405935#675215#1	But dinner here is never disappointing, even if the prices are a bit over the top.	dinner:4-10	positive
+32405935#675215#1	But dinner here is never disappointing, even if the prices are a bit over the top.	prices:52-58	negative
+32895093#418997#1	Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!	sandwiches:32-42	positive
+32895093#418997#1	Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!	soup:44-48	positive
+32895093#418997#1	Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!	pizza:50-55	positive
+32895093#418997#1	Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!	homemade sorbets:71-87	positive
+35393630#1095759#1	the homemade Guacamole, the unbelievable entree, and thee most amazing deserts.	homemade Guacamole:4-22	positive
+35393630#1095759#1	the homemade Guacamole, the unbelievable entree, and thee most amazing deserts.	entree:41-47	positive
+35393630#1095759#1	the homemade Guacamole, the unbelievable entree, and thee most amazing deserts.	deserts:71-78	positive
+11461396#699654#0	The sushi is reasonably priced and fresh.	sushi:4-9	positive
+11461396#699654#0	The sushi is reasonably priced and fresh.	priced:24-30	positive
+35869867#649564#3	Save room for deserts - they're to die for.	deserts:14-21	positive
+32408649#945413#2	Best things to order are from the grill (Churrasco and Ribs).	grill:34-39	positive
+32408649#945413#2	Best things to order are from the grill (Churrasco and Ribs).	Churrasco:41-50	positive
+32408649#945413#2	Best things to order are from the grill (Churrasco and Ribs).	Ribs:55-59	positive
+35196520#758440#0	The traditional Italian items are great - cheap and served in a cozy setting.	traditional Italian items:4-29	positive
+35196520#758440#0	The traditional Italian items are great - cheap and served in a cozy setting.	setting:69-76	positive
+35196520#758440#0	The traditional Italian items are great - cheap and served in a cozy setting.	served:52-58	positive
+33085669#409731#7	Whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy.	iced blended mocha:24-42	positive
+33085669#409731#7	Whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy.	hot white mocha:50-65	positive
+33068909#1189415#1	last Tuesday for a late lunch with a friend.	late lunch:19-29	neutral
+32894416#1193614#4	Another friend had to ask 3 times for parmesan cheese.	parmesan cheese:38-53	neutral
+35177381#521555#1	Our waitress had apparently never tried any of the food, and there was no one to recommend any wine.	waitress:4-12	negative
+35177381#521555#1	Our waitress had apparently never tried any of the food, and there was no one to recommend any wine.	food:51-55	neutral
+35177381#521555#1	Our waitress had apparently never tried any of the food, and there was no one to recommend any wine.	wine:95-99	neutral
+15094232#1295193#3	The service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.	service:4-11	negative
+15094232#1295193#3	The service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.	portions:35-43	negative
+11302357#835238#2	The ambiance was pretty cool, but not worth the hassle.	ambiance:4-12	conflict
+33071731#1007204#4	The unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a quesedilla.	salad:58-63	neutral
+33071731#1007204#4	The unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a quesedilla.	salad dressing:86-100	neutral
+33071731#1007204#4	The unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a quesedilla.	quesedilla:126-136	neutral
+33069847#1306433#0	El Nidos one of the best restaurants in New York which I've ever been to, has a great variety of tasty, mouth watering pizza's.	pizza's:119-126	positive
+11302357#835238#1	The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.	service:4-11	negative
+11302357#835238#1	The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.	food:44-48	negative
+11302357#835238#1	The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.	cost:88-92	negative
+35709451#1061726#4	Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit.	food:82-86	positive
+35709451#1061726#4	Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit.	staff:111-116	positive
+35701425#1155856#4	I had to wait for my friend at the bar for a few minutes	bar:35-38	neutral
+35816071#637243#1	Chef Vincenzo, always there if you need him, is a real talent and a real Roman.	Chef:0-4	positive
+33069536#707145#4	If you're looking to taste some great Indian food and want good service, definitely visit Curry Leaf.	Indian food:38-49	positive
+33069536#707145#4	If you're looking to taste some great Indian food and want good service, definitely visit Curry Leaf.	service:64-71	positive
+32935583#854234#1	You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).	Odessa stew:13-24	positive
+32935583#854234#1	You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).	Rabbit stew:28-39	positive
+32935583#854234#1	You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).	salads:41-47	positive
+32935583#854234#1	You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).	kompot:62-68	positive
+36220672#1714981#2	My daughter and I left feeling satisfied (not stuffed) and it felt good to know we had a healthy lunch.	lunch:97-102	positive
+33071731#1007204#5	When she complained, the waitress said, Sorry.	waitress:25-33	neutral
+35158451#1089920#4	The quality of the meat was on par with your local grocery store.	quality of the meat:4-23	negative
+32894966#1727613#2	They specialize in smoothies and fresh juices.	smoothies:19-28	positive
+32894966#1727613#2	They specialize in smoothies and fresh juices.	fresh juices:33-45	positive
+11351587#1488758#7	I recommend the black roasted codfish, it was the best dish of the evening.	black roasted codfish:16-37	positive
+11351587#1488758#7	I recommend the black roasted codfish, it was the best dish of the evening.	dish:55-59	positive
+11359790#823900#3	The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.	waiter:114-120	negative
+11359790#823900#3	The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.	menu:54-58	neutral
+11359790#823900#3	The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.	manager:4-11	neutral
+33068664#1164940#0	In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste.	taste:114-119	negative
+33068664#1164940#0	In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste.	chicken:41-48	negative
+11624981#549489#10	during busy hrs, i recommend that you make a reservation.	reservation:45-56	neutral
+35084984#412657#0	I went to Common Stock for brunch and I was so impressed.	brunch:27-33	neutral
+33069925#747092#0	now called nikki sushi, sushi is OK.	sushi:24-29	neutral
+33069536#707145#2	The food is also outstanding and is served quite quickly.	food:4-8	positive
+33069536#707145#2	The food is also outstanding and is served quite quickly.	served:36-42	positive
+35709337#1579632#1	From the erbazzone emiliana to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care.	erbazzone emiliana:9-27	positive
+35709337#1579632#1	From the erbazzone emiliana to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care.	mostarda on the cheese plate:35-63	positive
+35709337#1579632#1	From the erbazzone emiliana to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care.	dishes:69-75	positive
+33066089#490193#3	The food is delicious and the bar has a great vibe.	food:4-8	positive
+33066089#490193#3	The food is delicious and the bar has a great vibe.	bar:30-33	positive
+33066089#490193#3	The food is delicious and the bar has a great vibe.	vibe:46-50	positive
+32892130#435512#2	There's candlelight and music.	candlelight:8-19	neutral
+32892130#435512#2	There's candlelight and music.	music:24-29	neutral
+32935729#785247#11	Simple healthy unglamorous food cheap.	food:27-31	positive
+35869867#649564#0	It was such a fantastic dining experience, that I returned again the same week.	dining experience:24-41	positive
+11359613#884374#6	To be fair, the food still is good and the service is quick and attentative even though its usually very busy.	food:16-20	positive
+11359613#884374#6	To be fair, the food still is good and the service is quick and attentative even though its usually very busy.	service:43-50	positive
+35700731#1595671#1	The place is absolutely adorable and the food is delicious.	place:4-9	positive
+35700731#1595671#1	The place is absolutely adorable and the food is delicious.	food:41-45	positive
+11558693#1436895#5	I ordered the Chicken Teriyaki and my husband got Garlic Shrimp.	Chicken Teriyaki:14-30	neutral
+11558693#1436895#5	I ordered the Chicken Teriyaki and my husband got Garlic Shrimp.	Garlic Shrimp:50-63	neutral
+11558693#1436895#0	I've had better Japanese food at a mall food court.	Japanese food:16-29	negative
+32894966#1727613#10	The staff members are extremely friendly and even replaced my drink once when I dropped it outside.	staff members:4-17	positive
+32894966#1727613#10	The staff members are extremely friendly and even replaced my drink once when I dropped it outside.	drink:62-67	neutral
+11359717#1138929#0	Cool atmosphere but such a let down.	atmosphere:5-15	positive
+32938222#1552119#3	The Sashimi portion are big enough to appease most people, but I didn't like the fact they used artifical lobster meat.	Sashimi portion:4-19	positive
+32938222#1552119#3	The Sashimi portion are big enough to appease most people, but I didn't like the fact they used artifical lobster meat.	artifical lobster meat:96-118	negative
+32891589#573560#1	They have wheat crusted pizza made with really fresh and yummy ingredients.	wheat crusted pizza:10-29	positive
+32891589#573560#1	They have wheat crusted pizza made with really fresh and yummy ingredients.	ingredients:63-74	positive
+33070309#423221#0	Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.	dinner:13-19	positive
+33070309#423221#0	Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.	food:53-57	positive
+33070309#423221#0	Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.	service:99-106	positive
+32936760#1397861#7	the icing MADE this cake, it was fluffy, not ultra sweet, creamy and light.	cake:20-24	positive
+32936760#1397861#5	Finally let into the store 5 at a time, to buy expensive slices from a harried staff.	staff:79-84	negative
+32936760#1397861#5	Finally let into the store 5 at a time, to buy expensive slices from a harried staff.	slices:57-63	negative
+33085939#758010#1	We ended up having to just leave because we were essentially being ignored by the wait staff--even though the rest of the restaurant was largely empty.	wait staff:82-92	negative
+11351664#1238806#5	The wine list is extensive, well priced and covers alot of regions.	wine list:4-13	positive
+11351664#1238806#5	The wine list is extensive, well priced and covers alot of regions.	priced:33-39	positive
+33068890#423889#0	Go here if you want fresh and tasty salads of any type you can imagine.	salads:36-42	positive
+36244423#1058258#4	Everything about this place is adorable - even the bathroom!	bathroom:51-59	positive
+32893040#1716582#1	Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.	delivers:7-15	positive
+32893040#1716582#1	Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.	food:23-27	positive
+32893040#1716582#1	Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.	prices:36-42	positive
+32893040#1716582#1	Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.	service:57-64	positive
+32893040#1716582#1	Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.	repast:96-102	positive
+33070286#1133164#3	THEY HAVE WAITERS ON THE SIDEWALK TRYING TO PULL YOU IN WHICH MADE US SUSPICIOUS.	WAITERS:10-17	neutral
+33070286#1133164#1	IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC ITALIAN MEAL.	ITALIAN MEAL:61-73	neutral
+32897564#894393#0	It took 100 years for Parisi to get around to making pizza (at least I don't think they ever made it before this year)...but it was worth the wait.	pizza:53-58	positive
+35714274#1076679#2	I asked for a simple medium rare steak.	steak:33-38	neutral
+35509422#0#3	Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.	organic grilled burgers:22-45	positive
+35509422#0#3	Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.	dish:67-71	positive
+35509422#0#3	Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.	Jerusalem market-style falafel wraps:81-117	positive
+35509422#0#3	Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.	Mediterranean salads--layered with beets, goat cheese and walnuts:122-187	positive
+11302357#835238#3	Probably my worst dining experience in new york, and I'm a former waiter so I know what I'm talking about.	dining experience:18-35	negative
+11302357#835238#3	Probably my worst dining experience in new york, and I'm a former waiter so I know what I'm talking about.	waiter:66-72	neutral
+32936760#1397861#6	Result (red velvet): Great texture, soft and velvety, nice hint of cocoa.	texture:27-34	positive
+32936760#1397861#6	Result (red velvet): Great texture, soft and velvety, nice hint of cocoa.	hint of cocoa:59-72	positive
+11359762#927332#4	Ask for the round corner table next to the large window.	round corner table next to the large window:12-55	positive
+32891589#573560#4	Their twist on pizza is heatlhy, but full of flavor.	flavor:45-51	positive
+32891589#573560#4	Their twist on pizza is heatlhy, but full of flavor.	twist on pizza:6-20	positive
+11350033#1264371#1	The lack of AC and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.	AC:12-14	negative
+11351328#1638529#0	I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people.	service:164-171	negative
+11351328#1638529#0	I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people.	sales people:181-193	negative
+33009300#626261#1	Unfortunately, unless you live in the neighborhood, it's not in a convenient location but is more like a hidden treasure.	location:77-85	negative
+35708055#673129#1	Didn't seem like any effort was made to the display and quality of the food.	display and quality of the food:44-75	negative
+11351628#404492#1	The food--though mostly deep-fried--is simple and satisfying.	food:4-8	positive
+32935583#854234#0	Glechik might be way too tiny for a restaurant by Russian standards, but it is cozy and the food is simply GREAT.	food:92-96	positive
+11639814#570590#1	The food was excellent - authentic Italian cuisine made absolutely fresh.	food:4-8	positive
+11639814#570590#1	The food was excellent - authentic Italian cuisine made absolutely fresh.	Italian cuisine:35-50	positive
+11313359#650269#4	At night the atmoshere changes turning into this hidden jewel that is waiting to be discovered.	atmoshere:13-22	positive
+11351814#1650882#5	The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service.	booth by the windows:75-95	neutral
+11351814#1650882#5	The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service.	place:136-141	positive
+11351814#1650882#5	The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service.	food:154-158	positive
+11351814#1650882#5	The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service.	service:163-170	positive
+33070601#438491#1	I would only go for the coffee which is way better than Starbucks or the like.	coffee:24-30	positive
+11651065#413029#2	Somewhat disappointing wine list (only new vintages.	wine list:23-32	negative
+11651065#413029#2	Somewhat disappointing wine list (only new vintages.	vintages:43-51	negative
+11639261#426600#0	If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!	priced:31-37	negative
+11639261#426600#0	If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!	food:38-42	negative
+11639261#426600#0	If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!	scenery:65-72	negative
+33069925#747092#1	new hamburger with special sauce is ok - at least better than big mac!	new hamburger with special sauce:0-32	positive
+33069925#747092#1	new hamburger with special sauce is ok - at least better than big mac!	big mac:62-69	negative
+35196520#758440#1	Perfectly al dente pasta, not drowned in sauce -- generous portions.	pasta:19-24	positive
+35196520#758440#1	Perfectly al dente pasta, not drowned in sauce -- generous portions.	sauce:41-46	neutral
+35196520#758440#1	Perfectly al dente pasta, not drowned in sauce -- generous portions.	portions:59-67	positive
+12036269#580745#6	I can understand the prices if it served better food, like some Chinese restaurants in midtown/uptown area.	prices:21-27	negative
+12036269#580745#6	I can understand the prices if it served better food, like some Chinese restaurants in midtown/uptown area.	food:48-52	negative
+15087705#871249#2	Service was awful - mostly because staff were overwhelmed on a Saturday night.	Service:0-7	negative
+15087705#871249#2	Service was awful - mostly because staff were overwhelmed on a Saturday night.	staff:35-40	negative
+35693216#1233439#3	To the owners; good job guys, this place is a keeper!	owners:7-13	positive
+35692932#1064131#2	and the owner is simply lovely and friendly.	owner:8-13	positive
+11484031#1129679#0	This little place is wonderfully warm welcoming.	place:12-17	positive
+33106326#864352#4	perfect for a quick meal.	meal:20-24	positive
+35709451#1061726#0	Has the warmth of a family local yet it is a great place to watch sporting events.	place:51-56	positive
+11351762#644011#3	The service was great, and they have a whole great deal for birthdays.	service:4-11	positive
+36244423#1058258#1	The staff is 100% Italian and the food is as authentic as it gets.	staff:4-9	positive
+36244423#1058258#1	The staff is 100% Italian and the food is as authentic as it gets.	food:34-38	positive
+11350496#1560668#4	My only complaint might be the fortune cookies - I've never had a cookie predict bad luck for me before I visited Kar.	fortune cookies:31-46	negative
+11350496#1560668#4	My only complaint might be the fortune cookies - I've never had a cookie predict bad luck for me before I visited Kar.	cookie:66-72	negative
+11461396#699654#3	Good for a quick sushi lunch.	sushi lunch:17-28	positive
+11464789#378665#2	Have a mojito and sit in the back patio.	mojito:7-13	positive
+11464789#378665#2	Have a mojito and sit in the back patio.	back patio:29-39	positive
+11351513#832512#2	The service was dreadfully slow (the place was only half full) and a smile would have been nice...	service:4-11	negative
+11408372#630381#0	I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes.	meal:46-50	positive
+11408372#630381#0	I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes.	braised lamb shank with mashed potatoes:70-109	positive
+32894669#1075584#2	The waitress came by to pick up the soy sauce WHILE we were eating our lunch!!!!!	waitress:4-12	negative
+32894669#1075584#2	The waitress came by to pick up the soy sauce WHILE we were eating our lunch!!!!!	soy sauce:36-45	neutral
+32894669#1075584#2	The waitress came by to pick up the soy sauce WHILE we were eating our lunch!!!!!	lunch:71-76	neutral
+11661949#1709112#2	So we sat at the bar, the bartender didn't seem like he wanted to be there.	bar:17-20	neutral
+11661949#1709112#2	So we sat at the bar, the bartender didn't seem like he wanted to be there.	bartender:26-35	negative
+32933228#1700177#1	I reccomend the fried pork dumplings, the orange chicken/beef, and the fried rice.	fried pork dumplings:16-36	positive
+32933228#1700177#1	I reccomend the fried pork dumplings, the orange chicken/beef, and the fried rice.	orange chicken/beef:42-61	positive
+32933228#1700177#1	I reccomend the fried pork dumplings, the orange chicken/beef, and the fried rice.	fried rice:71-81	positive
+11359762#927332#0	You will not be dissapointed by any of the choices in the menu.	menu:58-62	positive
+35709275#573688#1	The french fries -- with the kalmata dip were terrific!	french fries -- with the kalmata dip:4-40	positive
+11349845#1188496#0	Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?	wait:65-69	negative
+11349845#1188496#0	Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?	manager:120-127	negative
+11349845#1188496#0	Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?	bartender:138-147	neutral
+11349845#1188496#0	Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?	drinks:161-167	neutral
+11313359#650269#5	The boutique selection of wines covers a wide variety without being imposeing.	boutique selection of wines:4-31	neutral
+32896492#738746#2	They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare.	assortment of wraps:23-42	positive
+32896492#738746#2	They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare.	traditional Mediterranean fare:71-101	neutral
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	Fresh veggies:0-13	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	middle eastern spreads:28-50	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	cheese:52-58	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	falafel:63-70	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	soup:72-76	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	fish:78-82	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	rice:84-88	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	root vegetables:90-105	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	rice medley:109-120	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	spinach thing:127-140	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	lamb kebabs:142-153	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	cheese baclava:155-169	positive
+11351816#1162694#1	Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.	fooood:184-190	positive
+32405935#675215#2	Disappointingly, their wonderful Saketini has been taken off the bar menu.	Saketini:33-41	positive
+32405935#675215#2	Disappointingly, their wonderful Saketini has been taken off the bar menu.	bar menu:65-73	negative
+35668286#0#0	In Short The Black Sheep distinguishes itself from the Midtown pub herd with a look that's a mix of sports-bar butch and ornate kitsch.	look:79-83	negative
+11350031#590790#3	I would definitely go back -- if only for some of those exotic martinis on the blackboard.	martinis:63-71	positive
+33060905#1138585#2	then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.	chairs:56-62	neutral
+33060905#1138585#2	then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.	table:84-89	neutral
+35693216#1233439#1	The happy hour is so cheap, but that does not reflect the service or the atmosphere.	happy hour:4-14	positive
+35693216#1233439#1	The happy hour is so cheap, but that does not reflect the service or the atmosphere.	service:58-65	positive
+35693216#1233439#1	The happy hour is so cheap, but that does not reflect the service or the atmosphere.	atmosphere:73-83	positive
+33068909#1189415#2	After waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order.	waiter:38-44	negative
+33068909#1189415#2	After waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order.	kitchen:90-97	neutral
+33068909#1189415#2	After waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order.	waiting:6-13	negative
+33070383#592089#0	With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere.	quaility:101-109	positive
+33070383#592089#0	With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere.	atmosphere:114-124	positive
+32889544#0#0	A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	space:74-79	negative
+32889544#0#0	A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	prices:122-128	positive
+32889544#0#0	A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	treats:101-107	positive
+35698240#574381#4	Give it a try, menu is typical French but varied.	menu:15-19	neutral
+33064238#563983#1	It gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.	seats:51-56	positive
+11651065#413029#3	but for the value, it was a great affordable spot to enjoy a fun night out with small group.	value:12-17	positive
+36216551#1233442#1	the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.	food:224-228	positive
+36216551#1233442#1	the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.	attitude:145-153	positive
+11351725#582163#4	We ordered a glass of wine and were finished eating and paying before the wine came.	glass of wine:13-26	neutral
+35720486#684689#0	It was good, but none of the flavors WOW.	flavors:29-36	neutral
+32938222#1552119#4	Overall, this is a nice place to take a few friends to hang out at and the service is excellent.	place:24-29	positive
+32938222#1552119#4	Overall, this is a nice place to take a few friends to hang out at and the service is excellent.	service:75-82	positive
+32408649#945413#3	Food is excellent quality for a good restaurant price.	Food:0-4	positive
+32408649#945413#3	Food is excellent quality for a good restaurant price.	price:48-53	positive
+33106326#864352#1	for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert.	burrito:42-49	positive
+33106326#864352#1	for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert.	tacos:54-59	positive
+33106326#864352#1	for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert.	margarita:62-71	neutral
+33106326#864352#1	for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert.	dessert:77-84	neutral
+11351622#0#1	The space is traditional in feel.	space:4-9	neutral
+33060905#1138585#1	the restaurant was completely empty, but she gave me a dirty look and asked, no reservations?	reservations:80-92	neutral
+11538980#453602#1	the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.	food:4-8	negative
+11538980#453602#1	the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.	interior:39-47	negative
+11538980#453602#1	the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.	owners:75-81	negative
+11538980#453602#1	the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.	dining:178-184	neutral
+35196527#481646#3	Good service, great food, good value, and never have to wait in line!	service:5-12	positive
+35196527#481646#3	Good service, great food, good value, and never have to wait in line!	food:20-24	positive
+35196527#481646#3	Good service, great food, good value, and never have to wait in line!	value:31-36	positive
+35196527#481646#3	Good service, great food, good value, and never have to wait in line!	wait:56-60	positive
+35743460#0#3	Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast.	Egg McMuffin sandwich:33-54	neutral
+35743460#0#3	Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast.	hot cakes:15-24	neutral
+35743460#0#3	Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast.	breakfast:73-82	neutral
+36072604#1106889#0	I have been going to this restaurant for years, in the past the service was average and the food inconsistant.	service:64-71	neutral
+36072604#1106889#0	I have been going to this restaurant for years, in the past the service was average and the food inconsistant.	food:92-96	negative
+11567247#1415594#2	The music was fascinating, but left room for conversation, and the bartender made superb drinks.	music:4-9	positive
+11567247#1415594#2	The music was fascinating, but left room for conversation, and the bartender made superb drinks.	bartender:67-76	positive
+11567247#1415594#2	The music was fascinating, but left room for conversation, and the bartender made superb drinks.	drinks:89-95	positive
+33070605#1232775#3	rice dishes and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!	rice dishes:0-11	positive
+33070605#1232775#3	rice dishes and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!	noodle dishes:16-29	positive
+33070605#1232775#3	rice dishes and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!	ice drink:71-80	positive
+32899414#512291#3	Cuisine is billed as asian fusion - doesn't meet the bill.	Cuisine:0-7	negative
+32899414#512291#3	Cuisine is billed as asian fusion - doesn't meet the bill.	bill:53-57	negative
+32899414#512291#3	Cuisine is billed as asian fusion - doesn't meet the bill.	asian fusion:21-33	neutral
+32899414#512291#3	Cuisine is billed as asian fusion - doesn't meet the bill.	billed:11-17	negative
+11351622#0#3	Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.	dishes:9-15	positive
+11351622#0#3	Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.	king crab salad with passion fruit vinaigrette:21-67	positive
+11351622#0#3	Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.	fettuccine with grilled seafood in a rosemary-orange sauce:72-130	positive
+11351622#0#3	Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.	bistro menu:183-194	neutral
+35170181#0#3	Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.	Dishes:0-6	positive
+35170181#0#3	Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.	"Roy's Classics":18-34	positive
+35170181#0#3	Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.	menu:50-54	neutral
+35170181#0#3	Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.	recipes:90-97	positive
+35170181#0#3	Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.	macadamia-crusted mahi mahi:107-134	positive
+35170181#0#3	Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.	sweet honey-mustard beef short ribs:146-181	positive
+32893040#1716582#4	The cold sesame noodles, which are a freebie when you order $10+, are delectable.	cold sesame noodles:4-23	positive
+35177381#521555#0	I came to fresh expecting a great meal, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating.	food:75-79	negative
+35177381#521555#0	I came to fresh expecting a great meal, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating.	meal:34-38	negative
+35177381#521555#0	I came to fresh expecting a great meal, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating.	served:80-86	neutral
+35886114#1249751#0	The lone argentine chorizo appetizer at $8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $2.99/lb at the store.	argentine chorizo appetizer:9-36	negative
+35886114#1249751#0	The lone argentine chorizo appetizer at $8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $2.99/lb at the store.	fennel flavored Italian sausage:58-89	negative
+33059678#631861#0	I went to Swiftys with some friends of the family and we had a very nice dinner, but nothing amazing.	dinner:73-79	positive
+32867472#663531#2	Best Chinese on the Upper East, prompt delivery, good value.	delivery:39-47	positive
+32867472#663531#2	Best Chinese on the Upper East, prompt delivery, good value.	value:54-59	positive
+32894966#1727613#8	Most of the sandwiches are made with soy mayonaise which is actually pretty good.	sandwiches:12-22	positive
+32894966#1727613#8	Most of the sandwiches are made with soy mayonaise which is actually pretty good.	soy mayonaise:37-50	positive
+33060905#1138585#0	i went in one day asking for a table for a group and was greeted by a very rude hostess.	hostess:80-87	negative
+33060905#1138585#0	i went in one day asking for a table for a group and was greeted by a very rude hostess.	table:31-36	neutral
+35196527#481646#4	It's worthwhile to take a cab to Chelsea just for an awesome dinner at My Chelsea.	dinner:61-67	positive
+35709337#1579632#2	Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.	food:16-20	positive
+35709337#1579632#2	Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.	staff:40-45	positive
+35709337#1579632#2	Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.	food:150-154	positive
+35709337#1579632#2	Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.	wine:159-163	positive
+35938288#666236#1	It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.	music:12-17	positive
+35938288#666236#1	It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.	tapas:24-29	positive
+35938288#666236#1	It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.	selection of wines (primarily Spanish):46-84	positive
+35938288#666236#1	It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.	clientele:115-124	positive
+32867472#663531#1	The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.	food:4-8	positive
+32867472#663531#1	The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.	dumplings:32-41	positive
+32867472#663531#1	The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.	cold sesame noodles:43-62	positive
+32867472#663531#1	The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.	chicken:64-71	positive
+32867472#663531#1	The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.	shrimp dishs:76-88	positive
+11484031#1129679#2	And the food, well the food will keep you coming back.	food:8-12	positive
+11484031#1129679#2	And the food, well the food will keep you coming back.	food:23-27	positive
+11351819#985076#2	Waiting three hours before getting our entrees was a treat as well.	entrees:39-46	neutral
+11351819#985076#2	Waiting three hours before getting our entrees was a treat as well.	Waiting:0-7	negative
+15069510#648179#4	It's the conversations that make this a fun place to be.	place:44-49	positive
+11351451#805713#2	My gf's duck confitte was very solid as well, although i have little base of reference.	duck confitte:8-21	positive
+35695422#1464305#2	The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.	wine list:4-13	positive
+35695422#1464305#2	The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.	tapas:30-35	positive
+35695422#1464305#2	The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.	atmosphere:62-72	positive
+11313316#1234433#3	You can eat gourmet food at a fast food price.	price:40-45	positive
+11313316#1234433#3	You can eat gourmet food at a fast food price.	food:20-24	positive
+11417054#1062693#1	I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable.	food:62-66	positive
+11417054#1062693#1	I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable.	service:72-79	positive
+11417054#1062693#1	I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable.	prices:108-114	positive
+35693083#822138#0	Not because I was pregnant, but the food here is always delicious.	food:36-40	positive
+11351625#909535#0	Had a great meal there this weekend before heading to the movies!	meal:12-16	positive
+15094232#1295193#0	We had a birthday party here recently and the food and service was amazing.	food:46-50	positive
+15094232#1295193#0	We had a birthday party here recently and the food and service was amazing.	service:55-62	positive
+35171678#484493#1	the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.	dinner menu:4-15	positive
+35171678#484493#1	the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.	entrees:42-49	positive
+35171678#484493#1	the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.	seafood:67-74	positive
+35171678#484493#1	the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.	steaks:84-90	positive
+35171678#484493#1	the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.	non-meat alternatives:117-138	neutral
+11482070#503858#0	This place has the strangest menu and the restaurants tries too hard to make fancy food.	menu:29-33	negative
+11482070#503858#0	This place has the strangest menu and the restaurants tries too hard to make fancy food.	food:83-87	negative
+32443281#959917#3	The appetizers are ok, but the service is slow.	appetizers:4-14	neutral
+32443281#959917#3	The appetizers are ok, but the service is slow.	service:31-38	negative
+11359717#1138929#5	the food - not worth the price.	food:4-8	negative
+11359717#1138929#5	the food - not worth the price.	price:25-30	negative
+11302357#835238#0	What can you say about a place where the waitress brings out the wrong entree, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).	waitress:41-49	negative
+11302357#835238#0	What can you say about a place where the waitress brings out the wrong entree, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).	entree:71-77	neutral
+11351762#644011#2	The prices are not terrible.	prices:4-10	positive
+33071731#1007204#6	15% gratuity automatically added to the bill.	bill:40-44	negative
+33071731#1007204#6	15% gratuity automatically added to the bill.	gratuity:4-12	negative
+35177381#521555#3	The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal.	halibut cheek appetizer:4-27	neutral
+35177381#521555#3	The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal.	portion of foie gras:49-69	positive
+35177381#521555#3	The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal.	meal:132-136	conflict
+33061445#591371#3	Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.	Food:0-4	positive
+33061445#591371#3	Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.	empenadas:37-46	positive
+33061445#591371#3	Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.	plaintains:51-61	positive
+33061445#591371#3	Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.	afternoon snack:84-99	positive
+13383936#420974#3	Both a number of the appetizer and pasta specials were amazing.	pasta specials:35-49	positive
+13383936#420974#3	Both a number of the appetizer and pasta specials were amazing.	appetizer:21-30	positive
+35743460#0#2	All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.	Big Mac:31-38	positive
+35743460#0#2	All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.	Chicken McNuggets:40-57	positive
+35743460#0#2	All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.	Filet-O-Fish sandwich:59-80	positive
+35743460#0#2	All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.	McDonald's famous french fries:85-115	positive
+35743460#0#2	All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.	entree-sized salads:138-157	neutral
+11351451#805713#4	Although somewhat loud, the noise was minimally intrusive.	noise:28-33	conflict
+11350539#680470#2	It's a basic pizza joint, not much to look at, but the pizza is what I go for.	pizza:55-60	positive
+35393632#1591698#3	Tables are close, so you better be comfortable bumping elbows with other patrons.	Tables:0-6	negative
+32894522#1633452#0	Was her Monday for lunch - was working on a film in the area - and found this rare jewel.	lunch:19-24	neutral
+11359767#969393#1	Not too much so, but enough that there's a great scene.	scene:49-54	positive
+35668126#536759#4	Dug the blue bar area too.	blue bar area:8-21	positive
+35390148#588852#0	I got the opportunity to dine at your establishment again a few weeks ago, I was in your upstrairs dining area.	upstrairs dining area:89-110	neutral
+35509422#0#4	Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.	veggie burger:47-60	positive
+35509422#0#4	Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.	chickpeas:95-104	positive
+35509422#0#4	Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.	carrots:106-113	positive
+35509422#0#4	Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.	vegetables:124-134	positive
+35509422#0#4	Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.	spices:139-145	positive
+11351521#768768#1	At peak times, the restaurant is overcrowded and tables are uncomfortably close.	tables:49-55	negative
+35158410#1207085#3	The service was on point - what else you would expect from a Ritz?	service:4-11	positive
+11351399#0#7	Menus feature seasonal picks, like sweet corn-foie gras brulee.	Menus:0-5	neutral
+11351399#0#7	Menus feature seasonal picks, like sweet corn-foie gras brulee.	sweet corn-foie gras brulee:35-62	neutral
+11351399#0#6	Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.	Carinthia cheese ravioli with wild mushrooms:49-93	positive
+11351399#0#6	Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.	caviar-topped sturgeon:101-123	positive
+11351399#0#6	Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.	green spinach-vodka sauce:159-184	positive
+32894522#1633452#3	And these are not small, wimpy fast food type burgers - these are real, full sized patties.	burgers:46-53	positive
+32894522#1633452#3	And these are not small, wimpy fast food type burgers - these are real, full sized patties.	patties:83-90	positive
+32896492#738746#1	There restaurant is very casual, but perfect for lunch, and their delivery service is always very fast.	lunch:49-54	neutral
+32896492#738746#1	There restaurant is very casual, but perfect for lunch, and their delivery service is always very fast.	delivery service:66-82	positive
+12036269#580745#4	Chinatown definitely has better quality with cheaper prices.	quality:32-39	positive
+12036269#580745#4	Chinatown definitely has better quality with cheaper prices.	prices:53-59	positive
+11351328#1638529#4	I had to flag down a third staff person for a fork... so now it's goodbye Little RUDE Pie Company.	staff person:27-39	neutral
+11351328#1638529#4	I had to flag down a third staff person for a fork... so now it's goodbye Little RUDE Pie Company.	fork:46-50	neutral
+33068734#650934#1	Go with the specials, and stay away from the salmon. 	specials:12-20	positive
+33068734#650934#1	Go with the specials, and stay away from the salmon. 	salmon:45-51	negative
+33068734#650934#2	The pastas were pretty good.	pastas:4-10	positive
+33068734#650934#3	Atmosphere is a bore.	Atmosphere:0-10	negative
+33070532#604874#0	The decor is what initially got me in the door.	decor:4-9	positive
+11351745#499992#0	The wait staff was very attentive and polite.	wait staff:4-14	positive
+35717889#579150#0	Great restaurant, and even greater food!	food:35-39	positive
+35717889#579150#1	The dishes are remarkably tasty and such a cozy and intimate place!	dishes:4-10	positive
+35717889#579150#1	The dishes are remarkably tasty and such a cozy and intimate place!	place:61-66	positive
+35717889#579150#2	Save room for the desserts! ;-)	desserts:18-26	positive
+11351682#1496136#0	I love the simplicity and respect which was given to the food, as well the staff was freindly and knowledgable.	food:57-61	positive
+11351682#1496136#0	I love the simplicity and respect which was given to the food, as well the staff was freindly and knowledgable.	staff:75-80	positive
+11504679#821993#0	Service was good and so was the atmosphere.	Service:0-7	positive
+11504679#821993#0	Service was good and so was the atmosphere.	atmosphere:32-42	positive
+11504679#821993#1	MY date and I both ordered the Branzini and both felt the fish was very average.	Branzini:31-39	neutral
+11504679#821993#1	MY date and I both ordered the Branzini and both felt the fish was very average.	fish:58-62	negative
+11349760#848056#1	The food was good, the service prompt, and the price very reasonable. 	food:4-8	positive
+11349760#848056#1	The food was good, the service prompt, and the price very reasonable. 	service:23-30	positive
+11349760#848056#1	The food was good, the service prompt, and the price very reasonable. 	price:47-52	positive
+35704115#614067#0	Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!	menu:10-14	positive
+35704115#614067#0	Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!	ambiance:30-38	positive
+35704115#614067#0	Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!	service:46-53	positive
+35704115#614067#0	Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!	FOOD:58-62	positive
+33061498#586991#0	Great food, good wine and an excellent host.	food:6-10	positive
+33061498#586991#0	Great food, good wine and an excellent host.	wine:17-21	positive
+33061498#586991#0	Great food, good wine and an excellent host.	host:39-43	positive
+11313392#560011#1	Pizzas were excellent in addition to appetizers and main courses.	Pizzas:0-6	positive
+11313392#560011#1	Pizzas were excellent in addition to appetizers and main courses.	appetizers:37-47	positive
+11313392#560011#1	Pizzas were excellent in addition to appetizers and main courses.	main courses:52-64	positive
+11313392#560011#2	Definitely try the calamari, any pasta, or even the Sliced steak entree.	calamari:19-27	positive
+11313392#560011#2	Definitely try the calamari, any pasta, or even the Sliced steak entree.	pasta:33-38	positive
+11313392#560011#2	Definitely try the calamari, any pasta, or even the Sliced steak entree.	Sliced steak entree:52-71	positive
+11513049#499488#4	The caeser salad was great.	caeser salad:4-16	positive
+11513049#499488#5	The fried calamari was even better!	fried calamari:4-18	positive
+11513049#499488#8	The atmosphere was nice but it was a little too dark.	atmosphere:4-14	conflict
+11513049#499488#0	The food was good overall. 	food:4-8	positive
+11660480#640405#1	The food was outstanding and the service was tops.	food:4-8	positive
+11660480#640405#1	The food was outstanding and the service was tops.	service:33-40	positive
+35682567#1590699#1	The portions are very large and the service is fantastic!!	portions:4-12	positive
+35682567#1590699#1	The portions are very large and the service is fantastic!!	service:36-43	positive
+35682567#1590699#2	I recomend the chicken milanese.	chicken milanese:15-31	positive
+35698333#556353#0	excellent tapas at great prices, romantic, small but not overly crowed, excellent	tapas:10-15	positive
+35698333#556353#0	excellent tapas at great prices, romantic, small but not overly crowed, excellent	prices:25-31	positive
+33072753#1351349#2	The service is a quite slow, but friendly.	service:4-11	conflict
+33072753#1351349#0	The chocolate raspberry cake is heavenly- not too sweet, but full of flavor.	chocolate raspberry cake:4-28	positive
+33072753#1351349#0	The chocolate raspberry cake is heavenly- not too sweet, but full of flavor.	flavor:69-75	positive
+11651310#581605#1	Our waiter was helpful and charming, the food was perfect, and the wine was good, too.	waiter:4-10	positive
+11651310#581605#1	Our waiter was helpful and charming, the food was perfect, and the wine was good, too.	food:41-45	positive
+11651310#581605#1	Our waiter was helpful and charming, the food was perfect, and the wine was good, too.	wine:67-71	positive
+11610050#517598#0	I HAVE NEVER HAD A BAD MEAL(OR BAD SERVICE )@ PIGALLE.	MEAL:23-27	positive
+11610050#517598#0	I HAVE NEVER HAD A BAD MEAL(OR BAD SERVICE )@ PIGALLE.	SERVICE:35-42	positive
+35739302#844266#0	Best hot dogs in the tri-state area.	hot dogs:5-13	positive
+11563005#745685#2	The service was very attentive and very generous.	service:4-11	positive
+11563005#745685#3	We had tons of great food, wine, and desserts.	food:21-25	positive
+11563005#745685#3	We had tons of great food, wine, and desserts.	wine:27-31	positive
+11563005#745685#3	We had tons of great food, wine, and desserts.	desserts:37-45	positive
+11563005#745685#4	Really Lovely dining experience in the midst of buzzing midtown area.	dining experience:14-31	positive
+11570675#1355721#1	The food really isn't very good and the service is terrible.	food:4-8	negative
+11570675#1355721#1	The food really isn't very good and the service is terrible.	service:40-47	negative
+11463275#424927#1	Not only do they have the best escargot in town,they always try to accomodate our toddler.	escargot:31-39	positive
+11408946#789662#1	Between my guest and I, we sampled at least 80% of the menu, and they were all hits.	menu:55-59	positive
+11408946#789662#3	The Deco and ambiance was really romantic.	Deco:4-8	positive
+11408946#789662#3	The Deco and ambiance was really romantic.	ambiance:13-21	positive
+32444534#501179#2	Just go in and sample the greatest french food west of Daniel.	french food:35-46	positive
+33068425#562449#1	For someone who used to hate Indian food, Baluchi's has changed my mid.	Indian food:29-40	positive
+33068425#562449#3	Finally a curry that I can eat, enjoy and not suffer from gastritis from 3 hours later.	curry:10-15	positive
+33068425#562449#5	All are GREAT - poori, naan, paratha all FRESH.	poori:16-21	positive
+33068425#562449#5	All are GREAT - poori, naan, paratha all FRESH.	naan:23-27	positive
+33068425#562449#5	All are GREAT - poori, naan, paratha all FRESH.	paratha:29-36	positive
+33068425#562449#4 	Try the homemade breads.	homemade breads:8-23	positive
+35703223#626682#0	This place has beautiful sushi, and it's delicious CHEAP. 	sushi:25-30	positive
+35703223#626682#1	It also has lots of other Korean dishes that are affordable and just as yummy.	Korean dishes:26-39	positive
+11351741#1733901#0	I went for restaurant week and ordered off the prix fixe menu	prix fixe menu:47-61	neutral
+32857960#1320058#5	Not only was the waiter efficient and courteous, but also extremely helpful. 	waiter:17-23	positive
+35701421#583735#2	This place is classy, chic, the service is warm and hospitable, and the food is outstanding.	place:5-10	positive
+35701421#583735#2	This place is classy, chic, the service is warm and hospitable, and the food is outstanding.	service:32-39	positive
+35701421#583735#2	This place is classy, chic, the service is warm and hospitable, and the food is outstanding.	food:72-76	positive
+32864873#582572#0	Great burgers, grilled cheeses and french fries.	burgers:6-13	positive
+32864873#582572#0	Great burgers, grilled cheeses and french fries.	grilled cheeses:15-30	positive
+32864873#582572#0	Great burgers, grilled cheeses and french fries.	french fries:35-47	positive
+11351354#812637#0	The Yellowfin Tuna and Calf's liver are my favorites!	Yellowfin Tuna:4-18	positive
+11351354#812637#0	The Yellowfin Tuna and Calf's liver are my favorites!	Calf's liver:23-35	positive
+11538980#1053497#1	Sushi so fresh that it crunches in your mouth.	Sushi:0-5	positive
+11538980#1053497#4	But make sure you have enough room on your credit card as the bill will leave a big dent in your wallet.	bill:62-66	negative
+35158410#1207085#2	They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).	steak:95-100	neutral
+35158410#1207085#2	They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).	choices of sauces:68-85	positive
+35158410#1207085#2	They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).	sauce cart:13-23	neutral
+35158410#1207085#2	They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).	table:35-40	neutral
+15094232#1295193#2	Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!	sushi:17-22	positive
+15094232#1295193#2	Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!	duck:136-140	positive
+15094232#1295193#2	Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!	entrees:53-60	neutral
+32894267#698671#5	good variety but nothing surprising.	variety:5-12	positive
+11351328#1638529#2	After I paid for my purchase, I noticed they had not given me utensils so I could eat my pie.	utensils:62-70	neutral
+11351328#1638529#2	After I paid for my purchase, I noticed they had not given me utensils so I could eat my pie.	pie:89-92	neutral
+11350539#680470#6	Likewise if you like really thin crust or really big slices then Nick and Joe's may not be your favorite.	thin crust:28-38	negative
+11350539#680470#6	Likewise if you like really thin crust or really big slices then Nick and Joe's may not be your favorite.	slices:53-59	negative
+33071731#1007204#2	No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion.	green beans:3-14	neutral
+33071731#1007204#2	No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion.	egg:19-22	neutral
+33071731#1007204#2	No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion.	anchovy dressing:27-43	neutral
+33071731#1007204#2	No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion.	nicoise olives:48-62	neutral
+33071731#1007204#2	No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion.	red onion:67-76	neutral
+32938896#0#2	Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.	meal:8-12	neutral
+32938896#0#2	Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.	Amazin' Greens salads:35-56	neutral
+32938896#0#2	Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.	Buffalo Chicken Kickers:58-81	neutral
+32938896#0#2	Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.	Cinna Stix:86-96	neutral
+32938896#0#2	Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.	side orders:18-29	neutral
+33070588#0#2	Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.	fries:6-11	neutral
+33070588#0#2	Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.	meaty chili:13-24	neutral
+33070588#0#2	Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.	stuffed baked potatoes:29-51	neutral
+33070588#0#2	Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.	menu:64-68	neutral
+33070588#0#2	Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.	chocolate Frosty:103-119	positive
+11482070#503858#2	I always find myself asking the waiter to make something bland and different than what is on the menu.	waiter:32-38	neutral
+11482070#503858#2	I always find myself asking the waiter to make something bland and different than what is on the menu.	menu:97-101	neutral
+32936760#1397861#8	Good cake BUT: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.	cake:35-39	negative
+32936760#1397861#8	Good cake BUT: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.	employees:168-177	negative
+32936760#1397861#8	Good cake BUT: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.	cake:5-9	conflict
+35720486#684689#1	The closest that I got was the Cherry Marscapone, but they were out of it that day.	Cherry Marscapone:31-48	neutral
+35719198#0#3	The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.	roti canai appetizer:54-74	positive
+35719198#0#3	The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.	mango chicken:143-156	positive
+35719198#0#3	The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.	fried pancake served with pungent curry dipping sauce:78-131	positive
+33507331#1177339#1	It doesn't look like much on the outside, but the minute you walk inside, it's a whole other atmosphere.	outside:33-40	negative
+33507331#1177339#1	It doesn't look like much on the outside, but the minute you walk inside, it's a whole other atmosphere.	atmosphere:93-103	positive
+32935729#785247#3	The ground chickpea soup we sampled as a starter tasted somewhat thin.	ground chickpea soup:4-24	negative
+32935729#785247#3	The ground chickpea soup we sampled as a starter tasted somewhat thin.	starter:41-48	neutral
+35709141#1107179#3	We requested they re-slice the sushi, and it was returned to us in small cheese-like cubes.	sushi:31-36	negative
+11351354#412616#1	The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.	service:4-11	negative
+11351354#412616#1	The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.	quality of food:48-63	positive
+11351354#412616#1	The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.	bartenders:74-84	negative
+11351354#412616#1	The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.	clientele:95-104	negative
+11351354#412616#1	The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.	staff:206-211	negative
+11349840#433070#8	If you're in the neighborhood, definitely stop by for a great meal.	meal:62-66	positive
+11349840#433070#7	Unfortunately, with our show tickets, we didn't have time to sample any desserts.	desserts:72-80	neutral
+35391416#500259#5	Make more tables- perhaps a rooftop bar?	tables:10-16	negative
+35391416#500259#5	Make more tables- perhaps a rooftop bar?	rooftop bar:28-39	neutral
+32944704#492723#1	The decoration was feeling like we was on the Cairo, actually the street is part of that adventure.	decoration:4-14	positive
+32950007#1320096#2	Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.	ambience:33-41	positive
+32950007#1320096#2	Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.	food:53-57	positive
+32950007#1320096#2	Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.	catfish:63-70	positive
+32950007#1320096#2	Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.	service:133-140	positive
+11350033#1264371#3	I didn't go there for food so I can't comment.	food:22-26	neutral
+11660930#655010#4	Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great.	brisket:40-47	positive
+11660930#655010#4	Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great.	ribs:49-53	positive
+11660930#655010#4	Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great.	wings:55-60	positive
+11660930#655010#4	Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great.	cajun shrimp:62-74	neutral
+35509422#0#0	Hip boutiques and bars on Ludlow add to the artsy, laid-back atmosphere at this Israeli-style takeout and eat-in burger joint.	atmosphere:61-71	positive
+35509422#0#1	Young neighborhood trendies graze at the counter during the day, while chic, art-house drinkers with heavy doses of the munchies pile in late at night.	counter:41-48	neutral
+35393632#1591698#0	Bring your date and a bottle of wine!	bottle of wine:22-36	neutral
+35196527#481646#0	My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.	menu:37-41	positive
+35196527#481646#0	My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.	Japanese dishes:71-86	neutral
+35196527#481646#0	My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.	Foie Gras Unagi Napolean:95-119	neutral
+35196527#481646#0	My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.	Jap style hamburger steak:121-146	neutral
+35196527#481646#0	My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.	spicy cod roe spaghetti:148-171	neutral
+35196527#481646#0	My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.	black cod with miso base:173-197	neutral
+35196527#481646#0	My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.	rack of lamb in black truffle sauce:203-238	neutral
+35816071#637243#2	His food is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14).	food:4-8	positive
+35816071#637243#2	His food is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14).	appetizers:85-95	positive
+35816071#637243#2	His food is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14).	entrees:62-69	positive
+11359613#884374#0	The food is consistant and good but how it got name Best Diner In Manhattan is beyond me.	food:4-8	positive
+11349840#433070#6	The pasta primavera was outstanding as well, lots of fresh veggies.	pasta primavera:4-19	positive
+11349840#433070#6	The pasta primavera was outstanding as well, lots of fresh veggies.	fresh veggies:53-66	positive
+32894267#698671#4	don't get me wrong - sushi was good, just not fantastic.	sushi:21-26	positive
+35693083#822138#1	Being Puerto Rican I know a thing or two about flan and this place serves one of the best (I hope Mom doesn't read this!).	flan:47-51	positive
+32927541#579582#0	Been to the one in Brooklyn for over 25 years, now I dont have to go over the bridge for the best pizza ....Hanx	pizza:98-103	positive
+11349536#778388#0	Had dinner here on a Friday and the food was great.	dinner:4-10	neutral
+11349536#778388#0	Had dinner here on a Friday and the food was great.	food:36-40	positive
+35700989#574718#3	We recently spent New Year's Eve at the restaurant, and had a great experience, from the wine to the dessert menu.	wine:89-93	positive
+35700989#574718#3	We recently spent New Year's Eve at the restaurant, and had a great experience, from the wine to the dessert menu.	dessert menu:101-113	positive
+35709275#573688#2	Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice.	place:139-144	positive
+35709275#573688#2	Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice.	bar:156-159	positive
+35709275#573688#2	Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice.	takeout:102-109	neutral
+11351587#1488758#1	The ambiance was fine, a little loud but still nice and romantic.	ambiance:4-12	positive
+33069925#747092#3	but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).	cocktail hour:47-60	positive
+33069925#747092#3	but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).	filet mignon:9-21	negative
+33069925#747092#3	but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).	non-sushi selection:92-111	positive
+33069925#747092#3	but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).	appetizers:75-85	positive
+11351725#582163#3	It took about 2 1/2 hours to be served our 2 courses.	courses:45-52	neutral
+11351725#582163#3	It took about 2 1/2 hours to be served our 2 courses.	served:32-38	negative
+11359764#1373169#1	Who said go when the place is quiet during the day?	place:21-26	neutral
+35698351#821341#1	Can be a bit busy around peak times because of the size.	size:51-55	negative
+11351360#1704700#0	I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade.	chicken tacos:121-134	positive
+11351360#1704700#0	I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade.	Hibiscus lemonade:139-156	positive
+11351360#1704700#0	I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade.	place:102-107	positive
+32894791#1611374#1	good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.	place:5-10	positive
+32894791#1611374#1	good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.	soup:73-77	neutral
+32894791#1611374#1	good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.	french dish:89-100	neutral
+32894791#1611374#1	good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.	glass of wine:108-121	neutral
+36072604#1106889#4	Very nice touch that very much fits the place.	place:40-45	positive
+11350033#1264371#2	However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.	casual drink:97-109	positive
+11350033#1264371#2	However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.	outdoors:54-62	positive
+11350033#1264371#2	However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.	place:135-140	positive
+11567247#1415594#1	We were seated promptly in close proximity to the dance floor.	dance floor:50-61	neutral
+11351521#768768#2	If you are here as a pre-show meal, hop in a cab and take the extra 10 minutes to go to the uptown location.	pre-show meal:21-34	neutral
+11651065#413029#1	The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good.	fried foods:19-30	negative
+11651065#413029#1	The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good.	dishes:64-70	positive
+11651065#413029#1	The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good.	lamb entree:86-97	positive
+11651065#413029#1	The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good.	salads (avocado shrimp):114-137	positive
+11351816#1162694#2	Slow service, but when you're hanging around with groups of 10 or 20, who really notices?	service:5-12	negative
+32897564#894393#1	The sauce is excellent (very fresh) with dabs of real mozzarella.	dabs of real mozzarella:41-64	neutral
+32897564#894393#1	The sauce is excellent (very fresh) with dabs of real mozzarella.	sauce:4-9	positive
+11349845#1188496#2	Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.	drinks:24-30	negative
+11349845#1188496#2	Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.	people:58-64	negative
+11349845#1188496#2	Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.	dining:126-132	negative
+33070305#1312437#5	The room is a little plain, but it's difficult to make such a small place exciting and I would not suggest that as a reason not to go.	room:4-8	negative
+33070305#1312437#5	The room is a little plain, but it's difficult to make such a small place exciting and I would not suggest that as a reason not to go.	place:68-73	negative
+11432842#416795#4	Prices even outside of restaurant week were great.	Prices:0-6	positive
+35509422#0#2	A small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends.	space:62-67	positive
+35509422#0#2	A small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends.	outdoor eating area:9-28	positive
+35670845#1650649#3	And all the [female] servers are cute too, which is always nice.	[female] servers:12-28	positive
+35170181#0#5	The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets.	dessert:9-16	positive
+35170181#0#5	The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets.	chocolate and peanut butter tart:20-52	positive
+35170181#0#5	The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets.	sweets:123-129	neutral
+11359619#487952#7	for an appetizer, their calamari is a winner.	appetizer:7-16	neutral
+11359619#487952#7	for an appetizer, their calamari is a winner.	calamari:24-32	positive
+32464595#574909#1	Satay is one of those favorite haunts on Washington where the service and food is always on the money.	service:62-69	positive
+32464595#574909#1	Satay is one of those favorite haunts on Washington where the service and food is always on the money.	food:74-78	positive
+11349536#778388#2	After dinner I heard music playing and discovered that there is a lounge downstairs.	dinner:6-12	neutral
+11349536#778388#2	After dinner I heard music playing and discovered that there is a lounge downstairs.	music:21-26	neutral
+11349536#778388#2	After dinner I heard music playing and discovered that there is a lounge downstairs.	lounge:66-72	neutral
+35816071#637243#3	The room is a gorgeous, bi-level space and the long bar perfect for a drink.	room:4-8	positive
+35816071#637243#3	The room is a gorgeous, bi-level space and the long bar perfect for a drink.	bi-level space:24-38	positive
+35816071#637243#3	The room is a gorgeous, bi-level space and the long bar perfect for a drink.	long bar:47-55	positive
+35816071#637243#3	The room is a gorgeous, bi-level space and the long bar perfect for a drink.	drink:70-75	neutral
+11350142#1253117#2	Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.	appetizer selection:22-41	negative
+11350142#1253117#2	Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.	mozzarella sticks:79-96	neutral
+11350142#1253117#2	Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.	menu:104-108	negative
+32950061#1264345#3	I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party.	waitstaff:58-67	positive
+32950061#1264345#3	I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party.	service:179-186	positive
+32935729#785247#4	The chicken and falafel platters were nondescript combinations with fresh leaf salad.	chicken and falafel platters:4-32	neutral
+32935729#785247#4	The chicken and falafel platters were nondescript combinations with fresh leaf salad.	fresh leaf salad:68-84	neutral
+33085669#409731#2	The atmosphere takes you to that place, the place many dream of.	atmosphere:4-14	positive
+11351628#404492#8	several times and put up with the waiters' bad manners, knowing that their job isn't easy.	waiters:34-41	negative
+32896473#439063#0	The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...	service:4-11	conflict
+32896473#439063#0	The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...	desserts:89-97	positive
+32896473#439063#0	The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...	coffee:120-126	positive
+32899282#556036#1	They are served on Focacchia bread and are to die for.	served:9-15	neutral
+32899282#556036#1	They are served on Focacchia bread and are to die for.	Focacchia bread:19-34	neutral
+32894966#1727613#3	While the smoothies are a little big for me, the fresh juices are the best I have ever had!	smoothies:10-19	negative
+32894966#1727613#3	While the smoothies are a little big for me, the fresh juices are the best I have ever had!	fresh juices:49-61	positive
+32464601#418474#0	The food is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only dish that's really good.	food:4-8	conflict
+32464601#418474#0	The food is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only dish that's really good.	pialla:81-87	positive
+32464601#418474#0	The food is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only dish that's really good.	dish:107-111	positive
+11432442#650772#2	The guac is fresh, yet lacking flavor, we like to add our fresh salsa into it.	guac:4-8	conflict
+11432442#650772#2	The guac is fresh, yet lacking flavor, we like to add our fresh salsa into it.	fresh salsa:58-69	neutral
+11432442#650772#2	The guac is fresh, yet lacking flavor, we like to add our fresh salsa into it.	flavor:31-37	negative
+11313290#1139539#1	The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.	prices:116-122	negative
+11313290#1139539#1	The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.	staff:129-134	conflict
+11313290#1139539#1	The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.	new menu:4-12	positive
+33061445#591371#0	It' only open for lunch but the food is so good!	lunch:18-23	neutral
+33061445#591371#0	It' only open for lunch but the food is so good!	food:32-36	positive
+33070383#592089#1	If you like seafood and/or Greek food you will love this place though it is not limited to just these things.	seafood:12-19	positive
+33070383#592089#1	If you like seafood and/or Greek food you will love this place though it is not limited to just these things.	Greek food:27-37	positive
+35668286#0#2	" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.	menu:6-10	neutral
+35668286#0#2	" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.	burgers:30-37	neutral
+35668286#0#2	" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.	steaks:39-45	neutral
+35668286#0#2	" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.	shepherds pie:50-63	neutral
+35668286#0#2	" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.	portabella lasagna:76-94	neutral
+35668286#0#2	" The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.	pub fare:20-28	neutral
+35714274#1076679#1	How can they survive serving mediocre food at exorbitant prices?!	food:38-42	neutral
+35714274#1076679#1	How can they survive serving mediocre food at exorbitant prices?!	prices:57-63	negative
+11351725#582163#2	The food was mediocre and the service was severely slow.	service:30-37	negative
+11351725#582163#2	The food was mediocre and the service was severely slow.	food:4-8	neutral
+33060905#1138585#4	i have eaten here on a different occasion - the food is mediocre for the prices.	food:48-52	neutral
+33060905#1138585#4	i have eaten here on a different occasion - the food is mediocre for the prices.	prices:73-79	negative
+35695422#1464305#5	I'm looking forward to going back soon and eventually trying most everything on the menu!	menu:84-88	positive
+36220672#1714981#0	I just had my first visit to this place and can't wait to go back and slowly work my way through the menu.	menu:101-105	neutral
+33068909#1189415#4	I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter.	waiter:107-113	negative
+33068909#1189415#4	I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter.	meal:42-46	neutral
+33067279#1612676#0	I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk.	brunch:22-28	neutral
+33067279#1612676#0	I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk.	vegan cranberry pancakes:47-71	neutral
+33067279#1612676#0	I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk.	rice milk:81-90	neutral
+35709451#1061726#3	Sweet Irish bartender is always happy and able to bring a smile to my friends a my face.	bartender:12-21	positive
+32443281#959917#4	Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.	service:124-131	negative
+32443281#959917#4	Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.	drink:106-111	neutral
+32443281#959917#4	Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.	drinks:25-31	neutral
+11661949#1709112#8	Anyway, the owner was fake.	owner:12-17	negative
+35698240#574381#2	Owner is pleasant and entertaining.	Owner:0-5	positive
+11350390#802808#3	I have never in my life sent back food before, but I simply had to, and the waiter argued with me over this.	food:34-38	negative
+11350390#802808#3	I have never in my life sent back food before, but I simply had to, and the waiter argued with me over this.	waiter:76-82	negative
+11482070#503858#3	Although the restaurant itself is nice, I prefer not to go for the food.	food:67-71	negative
+11351628#404492#3	Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.	Creamy appetizers:0-17	positive
+11351628#404492#3	Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.	warm pitas:125-135	neutral
+11351628#404492#3	Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.	taramasalata:19-31	positive
+11351628#404492#3	Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.	eggplant salad:33-47	positive
+11351628#404492#3	Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.	Greek yogurt (with cuccumber, dill, and garlic):53-100	positive
