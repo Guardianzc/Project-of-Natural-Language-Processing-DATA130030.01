@@ -5,12 +5,12 @@ This is a report including all projects in my 2019 Fall Natural Language Process
    * [Homework 1 Spelling Correction](https://github.com/Guardianzc/Project-of-Natural-Language-Processing-DATA130030.01/tree/master/Homework%201%20Spelling%20Correction)
    * [Homework 2 Feature Engineering and Word2Vec based Sentiment Analysis](https://github.com/Guardianzc/Project-of-Natural-Language-Processing-DATA130030.01/tree/master/Homework%202%20Feature%20Engineering%20and%20Word2Vec%20based%20Sentiment%20Analysis)
    * [Homework 3 Chinese Event Extraction](https://github.com/Guardianzc/Project-of-Natural-Language-Processing-DATA130030.01/tree/master/Homework%203%20Chinese%20Event%20Extraction)
-   * [FinalProject_Commonsense Validation Model](https://github.com/Guardianzc/Project-of-Natural-Language-Processing-DATA130030.01/tree/master/Final%20PJ)
+   * [FinalProject Commonsense Validation Model](https://github.com/Guardianzc/Project-of-Natural-Language-Processing-DATA130030.01/tree/master/Final%20PJ)
    
 ## Details
 **Homework 1 Spelling Correction**
-* In this project, my Pacman agent will find paths through the maze world, both to reach a particular location and to collect food efficiently. I will build general search algorithms and apply them to Pacman scenarios. (Key words: DFS, BFS, UCS, A* Search, Heuristic function, Greedy)
-* You can see the detail of project [here](./Project1_Pacman/search2019_2.zip) and my report [here](./Project1_Pacman/Report.pdf)
+* In this project, I write a toy system for spelling correction.  (Key words: Language Model、 Channel Model )
+* You can see the detail of project [here](.\Homework 1 Spelling Correction\Homework 1) and my report [here](./Project1_Pacman/Report.pdf)
     
 **Project2_Nqueens**
 * In this project, I am going to construct a CSP for N-Queens problem.(Key words: Backtracking, CSP, AC-3)
